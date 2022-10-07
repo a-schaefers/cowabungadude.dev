@@ -1,11 +1,71 @@
-* Hello World
+#+LANGUAGE: en
+#+AUTHOR: MichaelAngelo
+#+EMAIL: mailto:schaefers@riseup.net
+#+TITLE: Portfolio
+#+HTML_DOCTYPE: <!DOCTYPE html>
+#+HTML_HEAD: <link href="http://fonts.googleapis.com/css?family=Roboto+Slab:400,700|Inconsolata:400,700" rel="stylesheet" type="text/css" />
+#+HTML_HEAD: <link href="./assets/css/style.css" rel="stylesheet" type="text/css" />
+
+
+#+TODO:
+
+#+CAPTION: This is the caption for the next figure link (or table)
+#+NAME:   fig:SED-HR4049
+[[./assets/images/tmnt-donatello.gif]]
+
+C-c-C-xC-v toggles images
+
+* About
 
 This could be a website in the future.
 
-** Sub heading 1
+** Education
 
+** Certifications
+
+** Experience
+
+** Interests
+
+** Technology I use
+
+*** GNU / Linux (Redhat, Ubuntu, Arch, NixOS...)
+*** Emacs
+*** Git
+*** SSH
+*** GPG
+*** Posix Shell / Bash
+*** MySQL
+*** ZFS
+*** Php
+*** Python
+*** Drupal
+*** Civicrm
+*** Docker
+*** Ansible
+*** AWS (Route53, Cloudfront, S3, EC2, SES, aws-cli, etc.)
+
+** Current research
+*** Python
+I want to use Python to replace Posix sh and Bash, especially in MySQL administration.
+
+*** MySQL database administration at scale.
+I'm researching how to make databases with millions of records and insane JOIN queries faster.
+
+** Blog
+
+
+*** Current reading list
 contents
 
-** Sub heading 2
+** Work responsibilities
 
-more contents
+** Work projects
+
+** Side projects
+
+** Open source contributions
+
+** Mentors (THANK YOU!)
+
+** Contact
