@@ -1,26 +1,23 @@
-#+LANGUAGE: en
-#+AUTHOR: MichaelAngelo
+#+AUTHOR: Adam Schaefers
 #+EMAIL: mailto:schaefers@riseup.net
 #+TITLE: Portfolio
 #+HTML_DOCTYPE: <!DOCTYPE html>
+#+LANGUAGE: en
 #+HTML_HEAD: <link href="http://fonts.googleapis.com/css?family=Roboto+Slab:400,700|Inconsolata:400,700" rel="stylesheet" type="text/css" />
 #+HTML_HEAD: <link href="./assets/css/style.css" rel="stylesheet" type="text/css" />
 
+* About
 
-#+TODO:
-
-#+CAPTION: This is the caption for the next figure link (or table)
-#+NAME:   fig:SED-HR4049
 [[./assets/images/tmnt-donatello.gif]]
 
-C-c-C-xC-v toggles images
-
-* About
+C-c-C-xC-v toggles images double square brackets ./path/to/thing
+C-c C-l org-insert-link
 
 This could be a website in the future.
 
 ** Education
 
+My Kiddo Dominic is the coolest and has a cool haircut.
 ** Certifications
 
 ** Experience
@@ -67,5 +64,4 @@ contents
 ** Open source contributions
 
 ** Mentors (THANK YOU!)
-
 ** Contact
