@@ -288,14 +288,34 @@ something that is some-what lacking in the Open Source world.
 
 [[./assets/images/terra_aws.png]]
 
-+ TO BE CONTINUED...
+* TODO Finish IMS Section
 
-# * Blog
-# [[file:blog/][Journey in Computing]]
 
 #+BEGIN_EXPORT html
 <hr/>
 #+END_EXPORT
+
+* Blog
+
+* TODO Begin new ./blog/index.org section
+
+#+BEGIN_EXPORT html
+<hr/>
+#+END_EXPORT
+
+* TODO Certifications
+
+* TODO Current reading list
+
++ Python Workout: 50 ten-minute exercises
++ Getting Started with SQL
++ SQL Practice Problems
+
+* TODO Links to socials
+
+* TODO Add Resume
+
+
 
 * Contact
 
@@ -388,14 +408,3 @@ lg==
 /---google/
 
 [fn:k] https://en.wikipedia.org/wiki/Clan_(video_games)
-
-
-# * Certifications
-
-# I've been picking up certifications lately, my employer likes them. Moreso, it's a fancy badge.
-# Terraform
-# AWS Devops
-# * Current reading list
-# Python Workout: 50 ten-minute exercises
-# Getting Started with SQL
-# SQL Practice Problems
