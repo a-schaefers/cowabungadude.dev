@@ -8,7 +8,7 @@
         ("org-static"
          :base-directory "~/repos/cowabungadude.dev/org"
          :publishing-directory "~/repos/cowabungadude.dev"
-         :base-extension "css\\|js\\|png\\|jpg\\|gif\\|pdf\\|mp3"
+         :base-extension "css\\|js\\|webp\\|png\\|jpg\\|gif\\|pdf\\|mp3"
          :recursive t
          :publishing-function org-publish-attachment
          )

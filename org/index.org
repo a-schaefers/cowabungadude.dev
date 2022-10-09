@@ -2,15 +2,19 @@
 #+EMAIL: schaefers@riseup.net
 #+TITLE: Portfolio of Adam Schaefers
 
-** the art of hacking
+* about
 
-This page is an [[https://www.gnu.org/software/emacs/][Emacs]] [[https://orgmode.org/][org-mode document]] and tells the story of my journey in to professional computing.
+This page tells the story of my journey in to professional computing.
 
 [[./assets/images/wedding-small.jpg]]
 
 Here's me, just married 9/19/2020 A.D. --- during the apocalypse
 
-** in the beginning...
+I'm a Devops Engineer at [[https://www.immaculatastudios.com/][Immaculata Studios]] where I spend most days automating the AWS world using Docker microservices and Terraform to help my team at scale.
+
+The opinions here are my own and do not represent my company.
+
+* in the beginning...
 
 [[./assets/images/220px-Ibm_px_xt_color.jpg]]
 
@@ -24,7 +28,9 @@ I learned DOS commands and batch scripts early on in this way, before GUI's were
 
 I was running my own WAMP stacks and messing around with frameworks like "Php Nuke", "PhpBB" and exploring Geocities in Junior High. This was all mostly to make cool websites for my video game "clans."
 
-** diy ethics and unix philosophy
+* diy ethics and unix philosophy
+
+[[./assets/images/unix.jpg]]
 
 #+BEGIN_QUOTE
 ~au·to·di·dact: a self-taught person~
@@ -40,7 +46,9 @@ My father taught me that if you want something done right, then you need to do i
 This comes in to play later on when I realized out that I could learn anything I wanted on the internet--
 that the original hacker spirit is the Unix Philosophy [fn:a] with DIY ethos. [fn:b]
 
-** social engineering: From hacking people to hacking machines
+* social engineering: from hacking people to hacking machines
+
+[[./assets/images/MrR.png]]
 
 #+BEGIN_QUOTE
 ~Social Engineering: (in the context of information security) the use of deception to manipulate individuals into divulging confidential or personal information that may be used for fraudulent purposes.~
@@ -48,7 +56,7 @@ that the original hacker spirit is the Unix Philosophy [fn:a] with DIY ethos. [f
 /---google/
 #+END_QUOTE
 
-I dropped out of college early on, not having a high regard for the system [fn:c] at the time.
+I dropped out of college early on, not having a high regard for the system (see [[https://archive.org/stream/The_Conscience_of_a_Hacker/hackersmanifesto.txt]["Hacker's Manifesto"]]) [fn:c] at the time.
 I traveled and read a lot of books on Philosophy, History, Theology and English -- as any millennial should.
 
 I landed in Honolulu, Hawaii.
@@ -65,7 +73,9 @@ These skills would be invaluable later while working in tech as a white hat.
 
 In this way, I have always been a "hacker."
 
-** hacking: Not a bad thing-- a fun thing!
+* hacking: Not a bad thing-- a fun thing!
+
+[[./assets/images/Linus-Torvalds-quote-about-talking-2a9797.jpg]]
 
 What does hacking and work in the service industry have in common? Playful cleverness.
 In "Did he (/or she/) tip you 101, we quickly learn that to get tips, we have to have fun the guests.
@@ -83,7 +93,9 @@ That was not so hard, though I had to figure out where to put them so that I cou
 /--- Richard Stallman, Creator of Emacs and GNU coreutils, [[https://stallman.org/articles/on-hacking.html][On Hacking]]/ [fn:f]
 #+END_QUOTE
 
-** 1984 -- security and privacy
+* 1984 -- security and privacy
+
+[[./assets/images/1984.jpg]]
 
 One day I looked up from my hotel with my Bellman standing next to me, and we noticed the glint of a scope from a far-off hotel room flashing at us.
 
@@ -107,11 +119,11 @@ I started watching [[https://www.youtube.com/c/BryanLunduke/videos][The Lunduke 
 I sent him a thank you Email years later along the lines, "Hey, thanks for sharing your knowledge and helping me to get grounded in the industry." He replied back, too.
 Dave's a champ.
 
-Admittedly, I used to [[https://www.reddit.com/r/unixporn/comments/3iy3wd/stupid_question_what_is_ricing/][rice]] my desktop back then. I used VIM like a pleb[fn:j] and apparently [[https://github.com/a-schaefers/i3-wm-gruvbox-theme][people still like work in that regard]].
+Admittedly, I used to [[https://www.reddit.com/r/unixporn/comments/3iy3wd/stupid_question_what_is_ricing/][rice]] my desktop back then. I used VIM like a pleb[fn:j] and apparently [[https://github.com/a-schaefers/i3-wm-gruvbox-theme][people still like my work in that regard]].
 
 [[./assets/images/gruv-sadkitty-clean.png]]
 
-** white hats: see, hackers aren't all bad
+* white hats: see, hackers aren't all bad
 
 #+BEGIN_QUOTE
 ~white hat: a person who hacks into a computer network in order to test or evaluate its security systems.~
@@ -131,9 +143,7 @@ Recruiter note: I like to think of myself as one of the good guys!
 
 Now Google famously had a [[https://en.wikipedia.org/wiki/Don%27t_be_evil]["Don't be evil"]] Code of Conduct. [fn:d] [[https://www.youtube.com/watch?v=OaTKaHKCAFg][And I would that they still did...]] I digress...
 
-** want to join a tech cult?
-
-There's pizza...
+* want to join a tech cult? There's pizza...
 
 [[./assets/images/tmnt-donatello.gif]]
 
@@ -149,7 +159,7 @@ There are even holy wars in tech, see Vim vs. Emacs and Tabs vs. Spaces, as bril
 <iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0" width="560" height="340" type="text/html" src="https://www.youtube.com/embed/SsoOG6ZeyUI?autoplay=0&fs=0&iv_load_policy=3&showinfo=0&rel=0&cc_load_policy=0&start=0&end=0&origin=http://youtubeembedcode.com"></iframe>
 #+END_EXPORT
 
-I started [[https://github.com/cooslug][COOSLUG]] (**Coos** Bay, Oregon) **L** inux **U** ser **G** roup with my buddy [[https://github.com/bayprogrammer][Zeb DeOs]], the only other Hacker I knew in the area. He's a prominent full stack developer
+I started [[https://github.com/cooslug][COOSLUG]] (*Coos* Bay, Oregon) *L* inux *U* ser *G* roup with my buddy [[https://github.com/bayprogrammer][Zeb DeOs]], the only other Hacker I knew in the area. He's a prominent full stack developer
 and I owe this guy everything career-wise.
 
 In a world where things are so often out of our control, the fact that we can program computers do exactly what we want is a strange comfort, and we shared this in common.
@@ -157,13 +167,16 @@ In a world where things are so often out of our control, the fact that we can pr
 We met once a month or so and ordered pizza, with prolonged Emacs hacking sessions and candid discussions on the state of the industry, jobs and
 open source software.
 
-** the bootcamp years and imposter syndrome
+* the bootcamp years and imposter syndrome
 
-Imposter Syndrome is a funny thing. When you're feeling impostery you know that, "I'm good enough to be here and do this job."
-But you don't feel that way on the inside.
+Imposter Syndrome is a funny thing. When you're feeling impostery you know that, /"I'm good enough to be here and do this job."/
+-- but you don't feel that way on the inside.
 I felt like I had something to prove, and that I needed to be the best before I entered the field full-time in a paid gig.
 I suspect it stems from the ever-changing, ever-learning nature of tech.
-I recommend you accept that and forget about it. There's nothing wrong with you dude, you're fine!
+
+Dear reader, if this is you right now -- I recommend you accept that you aren't going to know everything, and then forget about it.
+/Seriously/ -- *there's nothing wrong with you dude, you're fine!*
+More important than knowing it all, is demonstrating that you're able to adapt, learn and figure stuff out.
 I spent several years in this hell, I built the place! I don't regret it, but I also don't recommend it.
 
 At the time, I was on the computer 12 hours every day, studying.
@@ -185,17 +198,14 @@ evil () {
 evil
 #+END_SRC
 
-Better yet, as we all love good one-liner, ~:(){ :|:& };:~
+Better yet, as we all love good one-liner, ~:(){ :|:& };:~ Now put that in your Terminal and smoke it! Corny jokes aside, I learned POSIX shell script and system administration here in this phase, which leads in to the Devops path now-a-days.
 
-Put that in your Terminal and smoke it!
+Programmers need to use the Terminal and know some Bash, but when you're working on an embedded system with limited disk space, you're probably not
+going to have Bash, and your [[https://mywiki.wooledge.org/Bashism][bashisms]] are going to fail you. But shell is there, and [[https://en.wikipedia.org/wiki/POSIX][POSIX is still KING]].
 
-Corny jokes aside, I learned POSIX shell script and system administration here in this phase, which leads in to the Devops path now-a-days.
+* open source: a brave new world
 
-Programmers need to use the Terminal and know some bash, but when you're working on an embedded system with limited disk space and ram, you're probably not
-going to have Bash, and your [[https://mywiki.wooledge.org/Bashism][bashisms]] are going to fail you. But shell is there, and [[https://en.wikipedia.org/wiki/POSIX][POSIX is still KING]]. Chris taught me
-POSIX shell-- it's a dying art and I'm glad to carry this tradition.
-
-** open Source: a brave new world
+[[./assets/images/Free_and_open-source_software_logo_(2009).svg.png]]
 
 During this time I became a Linux distro developer and package maintainer.
 I volunteered on Funtoo Linux in the beginning, troubleshooting [[https://en.wikipedia.org/wiki/Daniel_Robbins_(computer_programmer)][Daniel Robbin's]] new distro, [[https://www.funtoo.org/Welcome][Funtoo Linux]], and writing
@@ -205,7 +215,7 @@ I went on a brief stint with [[https://nixos.org/][NixOS]], where with the overs
 I built my own [[https://github.com/a-schaefers/themelios][zfs-on-root installer called Themelios]] which still enjoys some usage to this day.
 NixOS is interesting, I'll just say that-- and I respect the work they're doing, along with [[https://guix.gnu.org/en/download/][Guix]], but I've come to prefer
 a simpler approach that is [[https://sta.li/][Stali Linux]] and [[https://github.com/oasislinux/oasis][OASIS]]. While I understand the problems solved by dynamic linking and the attempt to
-resolve the accompanying dependency hell issues in the the [[https://edolstra.github.io/pubs/nspfssd-lisa2004-final.pdf][nix whitepapers,]] I tend to prefer instead the simpler solution of static linking,
+resolve the accompanying dependency hell issues in the [[https://edolstra.github.io/pubs/nspfssd-lisa2004-final.pdf][nix whitepapers,]] I tend to prefer instead the simpler solution of static linking,
 as disk space is no longer expensive.
 
 After that I distro hopped on over to [[https://kisslinux.org/][KISS (Keep it simple, stupid) Linux]] where I worked with [[https://github.com/dylanaraps][Dylan Araps]], author of [[https://github.com/dylanaraps/neofetch][Neofetch]]. This distro is amazing,
@@ -216,27 +226,37 @@ at [[https://kernel.org/][Kernel.org]]. I also did some work on the KISS init sc
 I'll never forget the day I left the project, and [[https://github.com/dylanaraps/community/issues/1165][released my packages that I was maintaining back to the KISS community.]] I made that
 decision as I was nearing getting married in 2020, and I was also working in a paid capacity.
 
-During this phase I really felt like I had graduated. Tools like ~find~, ~grep~, ~git~, ~patch~ and ~diff~ would now be second nature. I built my own [[https://github.com/a-schaefers/spartan-emacs][Emacs framework called "Spartan Emacs"]]. I knew POSIX shell and Bash,
-Lisp, some C, Ruby and Python. I was finally a software developer and it was time for a job.
+Around this time also, I wrote my own Linux init scripts using the Emacs Lisp programming language, dubbed [[https://github.com/a-schaefers/systemE]["SystemE"]] by a friend on IRC (trolling systemd) and I hit
+the [[https://news.ycombinator.com/item?id=22120510][Hacker News Top 10]] for a day, and I was pretty jazzed about that, but it was just a joke. Playful and clever, maybe? :)
 
-Open source software experience is the best and it makes me who I am. This experience, to this day, is more valuable than anything I have ever done in paid capacity.
+During this phase I really felt like I had graduated. Tools like ~ssh~,n ~gpg~, ~find~, ~grep~, ~git~, ~patch~ and ~diff~ would now be second nature.
+I built my own [[https://github.com/a-schaefers/spartan-emacs][Emacs framework called "Spartan Emacs"]]. I knew POSIX shell and Bash,
+Emacs Lisp, Common Lisp; some C, Ruby and Python. I was finally a software developer and it was time for a job.
 
 Beyond this, I learned a lot about ~PATH~ and ~ENVIRONMENT~ in Linux, and that [[https://blog.sanctum.geek.nz/series/unix-as-ide/][Unix can be your IDE.]] Here's some classic books on the subject,
 [[https://www.amazon.com/Unix-Programming-Environment-Prentice-Hall-Software/dp/013937681X][The Unix Programming Environment]] and [[https://www.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628][C Programming Language]] by K&R.
 
-** Certifications
+Open source software experience is the best and it makes me who I am. This experience, to this day, is more valuable than anything I have ever done in paid capacity.
+
+
+
+* Certifications
+
+I've been picking up certifications lately, my employer likes them. Moreso, it's a fancy badge.
+
+
 Terraform
 AWS Devops
 
-** Experience
+* Experience
 
-*** Immaculata Studios, 2021---Present
-*** Devops Consulting, 2020---2021
-*** KISS Linux - (GNU stack package maintainer), 2019—2020
-*** Self-imposed devops bootcamp - Perfecting my craft, 2016—2019
-*** My first Linux distro - Ubuntu 8.04 Hardy Heron, —2008
+** Immaculata Studios, 2021---Present
+** Devops Consulting, 2020---2021
+** KISS Linux - (GNU stack package maintainer), 2019—2020
+** Self-imposed devops bootcamp - Perfecting my craft, 2016—2019
+** My first Linux distro - Ubuntu 8.04 Hardy Heron, —2008
 
-** Interests
+* Interests
 Linux
 DevOps
 Debugging and problem solving
@@ -244,31 +264,31 @@ Simple performant fault-tolerant systems
 Task automation
 Security & privacy
 
-** Technology I use
+* Technology I use
 
-*** GNU / Linux (Redhat, Ubuntu, Arch, NixOS...)
-*** Emacs
-*** Git
-*** SSH
-*** GPG
-*** Posix Shell / Bash
-*** MySQL
-*** ZFS
-*** Php
-*** Python
-*** Drupal
-*** Civicrm
-*** Docker
-*** Ansible
-*** AWS (Route53, Cloudfront, S3, EC2, SES, aws-cli, etc.)
+** GNU / Linux (Redhat, Ubuntu, Arch, NixOS...)
+** Emacs
+** Git
+** SSH
+** GPG
+** Posix Shell / Bash
+** MySQL
+** ZFS
+** Php
+** Python
+** Drupal
+** Civicrm
+** Docker
+** Ansible
+** AWS (Route53, Cloudfront, S3, EC2, SES, aws-cli, etc.)
 
-** Current research
+* Current research
 Python. I want to use Python to replace Posix sh and Bash, especially in MySQL administration.
 MySQL database administration at scale. I'm researching how to make databases with millions of records and insane JOIN queries faster.
-*** Python
+** Python
 I want to use Python to replace Posix sh and Bash, especially in MySQL administration.
 
-*** MySQL database administration at scale.
+** MySQL database administration at scale.
 I'm researching how to make databases with millions of records and insane JOIN queries faster.
 
 * Blog
@@ -277,13 +297,13 @@ I'm researching how to make databases with millions of records and insane JOIN q
 
 
 
-** Current reading list
+* Current reading list
 Python Crash Course
 Python Workout: 50 ten-minute exercises
 Getting Started with SQL
 SQL Practice Problems
 
-** Work responsibilities
+* Work responsibilities
 Find, report and fix bugs
 Collaborate with a team using version control
 Documentation writing
@@ -295,7 +315,7 @@ Monitor and maintain high volume mail servers
 Research performance optimization issues
 Assist devs and project managers to better serve our clients
 
-** Work projects
+* Work projects
 
 
 Sometimes I get assigned fun little coding projects,
@@ -307,7 +327,7 @@ Uptime checker - Alert us if sites are down
 Misc. ZFS dataset management and maintenance scripts
 Create a local docker-compose environment that imitates what we use in production for our dev team
 
-** Side projects
+* Side projects
 
 Cooslug was founded in 2018, which consisted of only Zeb and I, but we made it awesome
 SystemE (using Emacs to init my operating system) made the top 10 on Hacker News for a day
@@ -315,9 +335,9 @@ Spartan Emacs distro
 Themelios (a NixOS on ZFS installer)
 I'm interested in creating a relatively decentralized, secure and private communication platform similar to https://riseup.net
 
-** Open source
+* Open source
 
-*** Kernel.org
+** Kernel.org
 [PATCH] libcap 2.33 use sched_yield instead of pthread_yield
 Funtoo Linux Libvirt documentation
 Commits to the KISS Linux package manager
@@ -326,7 +346,7 @@ Commits to KISS Linux community packages
 Misc. Bug Reports
 
 
-** Contact
+* Contact
 
 [fn:a] https://en.wikipedia.org/wiki/Unix_philosophy -- The Unix philosophy, originated by Ken Thompson, is a set of cultural norms and philosophical approaches to minimalist, modular software development.
 
