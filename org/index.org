@@ -107,6 +107,10 @@ I started watching [[https://www.youtube.com/c/BryanLunduke/videos][The Lunduke 
 I sent him a thank you Email years later along the lines, "Hey, thanks for sharing your knowledge and helping me to get grounded in the industry." He replied back, too.
 Dave's a champ.
 
+Admittedly, I used to [[https://www.reddit.com/r/unixporn/comments/3iy3wd/stupid_question_what_is_ricing/][rice]] my desktop back then. I used VIM like a pleb[fn:j] and apparently [[https://github.com/a-schaefers/i3-wm-gruvbox-theme][people still like work in that regard]].
+
+[[./assets/images/gruv-sadkitty-clean.png]]
+
 ** White Hats: Seriously, hackers aren't all bad
 
 #+BEGIN_QUOTE
@@ -135,7 +139,13 @@ Like any good cult, I found that tech has its own jargon and can give you sense 
 Did you even google it? RTFM dude... [fn:i]
 #+END_QUOTE
 
-There are even holy wars in tech, see Vim vs. Emacs [fn:h]
+There are even holy wars in tech, see Vim vs. Emacs, [fn:h]
+
+#+BEGIN_EXPORT html
+<p>
+<iframe style="position: absolute; top: 0px; left: 0px; width: 100%; height: 100%;" src="" data-src="https://odysee.com/$/embed/The-Magical-Money-Machin-Eustace-Mullins-Interview-480/e5078743e7ae9fc06dee2f82cb0d3c262f311f01" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; fullscreen"  width="100%" height="100%" frameborder="0" loading="lazy"></iframe>
+</p>
+#+END_EXPORT
 
 I started COOSLUG (**Coos** Bay, Oregon) **L** inux **U** ser **G** roup with my buddy [[https://github.com/bayprogrammer][Zeb DeOs]], the only other Hacker I knew in the area. He's a prominent full stack developer
 and I owe this guy everything career-wise.
@@ -159,8 +169,8 @@ I spent several years in this hell, I built the place! I don't regret it, but I 
 At the time, I was on the computer 12 hours every day, studying.
 I installed Arch Linux a hundred times, I nigh memorized the [[https://wiki.archlinux.org/title/installation_guide][now infamous wiki]] --
 FreeBSD, the same-- and I actually read [[https://docs.freebsd.org/en/books/handbook/][the Handbook.]]
-I learned the ins-and-outs of [[https://aws.amazon.com/][AWS]]: Route53, S3, EC2, Cloudfront etc.
-I settled on a text editor ([[https://www.gnu.org/software/emacs/][Emacs]]) and started to form my own opinions on things.
+I learned the ins-and-outs of [[https://aws.amazon.com/][AWS]]: ~Route53~, ~S3~, ~EC2~, ~Cloudfront~ and more.
+I settled on a text editor, ~emacs~ and started to form my own opinions on things.
 
 I had another mentor during this period of my life, [[https://github.com/TemptorSent][Chris Giorgi]] of #gentoo / #funtoo on Freenode, he was an [[https://www.amazon.com/AWK-Programming-Language-Alfred-Aho/dp/020107981X][awk-programmer extraordinaire]].
 He taught me how to use [[https://zfsonlinux.org/][ZFS]]. He taught me that there are shell scripts and then there are /shell scripts/.
@@ -215,7 +225,7 @@ Lisp, some C, Ruby and Python. I was finally a software developer and it was tim
 
 Open source software experience is the best and it makes me who I am. This experience, to this day, is more valuable than anything I have ever done in paid capacity.
 
-Beyond this, I learned a lot about PATH and ENVIRONMENT in Linux, and that [[https://blog.sanctum.geek.nz/series/unix-as-ide/][Unix can be your IDE.]] Here's some classic books on the subject,
+Beyond this, I learned a lot about ~PATH~ and ~ENVIRONMENT~ in Linux, and that [[https://blog.sanctum.geek.nz/series/unix-as-ide/][Unix can be your IDE.]] Here's some classic books on the subject,
 [[https://www.amazon.com/Unix-Programming-Environment-Prentice-Hall-Software/dp/013937681X][The Unix Programming Environment]] and [[https://www.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628][C Programming Language]] by K&R.
 
 ** Certifications
@@ -343,3 +353,6 @@ Misc. Bug Reports
 [fn:h] https://www.youtube.com/watch?v=SsoOG6ZeyUI -- Silicon Valley features Vim vs. Emacs and Spaces vs. Tabs
 
 [fn:i] https://en.wikipedia.org/wiki/RTFM -- RTFM is an initialism and internet slang for the expression "read the fucking manual" – typically used to reply to a basic question where the answer is easily found in the documentation, user guide, owner's manual, man page, online help, internet forum, software documentation or FAQ.
+
+[fn:j] pleb -- an ordinary person, especially one from the lower social classes.
+/---google/
