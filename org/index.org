@@ -8,7 +8,7 @@
 
 This page tells the story of my journey in to professional computing.
 
-Here's me, just married 9/19/2020 A.D. --- during the apocalypse
+Here's me, just married 9/19/2020 A.D. --- during the apocalypse.
 
 I'm a Devops Engineer at [[https://www.immaculatastudios.com/][Immaculata Studios]] where I spend most days automating the AWS world using Docker microservices and Terraform to help my team at scale.
 
