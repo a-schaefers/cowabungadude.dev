@@ -24,7 +24,7 @@ I learned DOS commands and batch scripts early on in this way, before GUI's were
 
 I was running my own WAMP stacks and messing around with frameworks like "Php Nuke", "PhpBB" and exploring Geocities in Junior High. This was all mostly to make cool websites for my video game "clans."
 
-** diy ethics and unix philosophy
+** DIY ethics and Unix philosophy
 
 #+BEGIN_QUOTE
 ~au·to·di·dact: a self-taught person~
@@ -40,7 +40,7 @@ My father taught me that if you want something done right, then you need to do i
 This comes in to play later on when I realized out that I could learn anything I wanted on the internet--
 that the original hacker spirit is the Unix Philosophy [fn:a] with DIY ethos. [fn:b]
 
-** social engineering: from hacking people to hacking machines
+** Social Engineering: From hacking people to hacking machines (career change)
 
 #+BEGIN_QUOTE
 ~Social Engineering: (in the context of information security) the use of deception to manipulate individuals into divulging confidential or personal information that may be used for fraudulent purposes.~
@@ -56,7 +56,7 @@ There I worked as a Valet Driver, Bellman, Doorman in some of the nicest Hotels 
 
 [[./assets/images/waikiki.jpg]]
 
-A few years back I found a random photograph of myself by googling one of my hotel names.
+A few years back I found a random photograph of myself (see above) while googling one of old my hotels.
 
 While not malevolent-- little did I know at the time-- that I was receiving a free education in social engineering.
 The name of the game was called "Did he (/or she/) tip you?" and we knew how to get tipped-- unwittingly by hacking people.
@@ -65,10 +65,10 @@ These skills would be invaluable later while working in tech as a white hat.
 
 In this way, I have always been a "hacker."
 
-** hacking: not a bad thing, a fun thing!
+** Hacking: Not a bad thing-- a fun thing!
 
 What does hacking and work in the service industry have in common? Playful cleverness.
-In "Did he (/or she/) tip you 101, one quickly learns that to get tips, you have to have fun with your guests.
+In "Did he (/or she/) tip you 101, we quickly learn that to get tips, we have to have fun the guests.
 
 Similarly put by an O.G. hacker,
 
@@ -105,14 +105,12 @@ I will be doing this for a living soon enough, but there's a lot to learn first.
 
 I started watching [[https://www.youtube.com/c/BryanLunduke/videos][The Lunduke Show]]. I went to /YouTube University/, catching every [[https://www.youtube.com/c/tutoriaLinux/videos][TutoriaLinux (Dave Cohen)]] episode I could --
 I sent him a thank you Email years later along the lines, "Hey, thanks for sharing your knowledge and helping me to get grounded in the industry." He replied back, too.
-Dave's a champ in my book.
+Dave's a champ.
 
-** white hats: seriously, hackers aren't all bad
+** White Hats: Seriously, hackers aren't all bad
 
 #+BEGIN_QUOTE
-white hat: a person who hacks into a computer network in order to test or evaluate its security systems.
-
-~"While security dudes tend to speak in terms of black or white hats, it seems to me that nearly all hats are in varying shades of grey."~
+~white hat: a person who hacks into a computer network in order to test or evaluate its security systems.~
 
 /---google/
 #+END_QUOTE
@@ -120,9 +118,7 @@ white hat: a person who hacks into a computer network in order to test or evalua
 As opposed to "black hat,"
 
 #+BEGIN_QUOTE
-black hat: a person who hacks into a computer network with malicious or criminal intent.
-
-~"Black hats have a history of disassembling source code and looking for lapses."~
+~black hat: a person who hacks into a computer network with malicious or criminal intent.~
 
 /---google/
 #+END_QUOTE
@@ -136,7 +132,7 @@ Now Google famously had a [[https://en.wikipedia.org/wiki/Don%27t_be_evil]["Don'
 Like any good cult, I found that tech has its own jargon and can give you sense of identity,
 
 #+BEGIN_QUOTE
-Did you even google it? RTFM dude...
+Did you even google it? RTFM dude... [fn:i]
 #+END_QUOTE
 
 There are even holy wars in tech, see Vim vs. Emacs [fn:h]
@@ -151,36 +147,76 @@ https://github.com/cooslug
 We met once a month or so and ordered pizza, with prolonged Emacs hacking sessions and candid discussions on the state of the industry, jobs and
 open source software.
 
-** The bootcamp years and imposter syndrome
+** The bootcamp years and Imposter Syndrome
 
-Imposter Syndrome is a funny thing. It's like you know, "I'm good enough to be here and do this job." But you don't feel that way on the inside.
-
+Imposter Syndrome is a funny thing. When you're feeling impostery you know that, "I'm good enough to be here and do this job."
+But you don't feel that way on the inside.
+I felt like I had something to prove, and that I needed to be the best before I entered the field full-time in a paid atmosphere.
 I suspect it stems from the ever-changing, ever-learning nature of tech.
-
 I recommend you accept that and forget about it. There's nothing wrong with you dude, you're fine!
+I spent several years in this hell, I built the place! I don't regret it, but I also don't recommend it.
 
-I spent several years in hell, I mean, I built the place! I don't regret it, but I also don't recommend it.
+At the time, I was on the computer 12 hours every day, studying.
+I installed Arch Linux a hundred times, I nigh memorized the [[https://wiki.archlinux.org/title/installation_guide][now infamous wiki]] --
+FreeBSD, the same-- and I actually read [[https://docs.freebsd.org/en/books/handbook/][the Handbook.]]
+I learned the ins-and-outs of [[https://aws.amazon.com/][AWS]]: Route53, S3, EC2, Cloudfront etc.
+I settled on a text editor ([[https://www.gnu.org/software/emacs/][Emacs]]) and started to form my own opinions on things.
 
-I was on the computer 12 hours every day, studying. I felt like I had something to prove, and that I needed to be the best before I entered the field full-time
-in a paid atmosphere (job.)
+I had another mentor during this period of my life, [[https://github.com/TemptorSent][Chris Giorgi]] of #gentoo / #funtoo on Freenode, he was an [[https://www.amazon.com/AWK-Programming-Language-Alfred-Aho/dp/020107981X][awk-programmer extraordinaire]].
+He taught me how to use [[https://zfsonlinux.org/][ZFS]]. He taught me that there are shell scripts and then there are /shell scripts/.
+Finally, somebody more paranoid than I was, he sanity checked and validated /every/ input variable.
+
+Here's a classic [[https://en.wikipedia.org/wiki/Fork_bomb][fork bomb]],
+
+#+BEGIN_SRC sh
+evil () {
+  evil|evil &
+}
+evil
+#+END_SRC
+
+Better yet, as we all love good one-liner,
+
+#+BEGIN_SRC sh
+:(){ :|:& };:
+#+END_SRC
+
+Put that in your Terminal and smoke it!
+
+Corny jokes aside, I learned POSIX shell script and system administration here in this phase, which leads in to the Devops path now-a-days.
+
+Programmers need to use the Terminal and know some bash, but when you're working on an embedded system with limited disk space and ram, you're probably not
+going to have Bash, and your [[https://mywiki.wooledge.org/Bashism][bashisms]] are going to fail you. But shell is there, and [[https://en.wikipedia.org/wiki/POSIX][POSIX is still KING]]. Chris taught me
+POSIX shell-- it's a dying art and I'm glad to carry this tradition.
+
+** Open Source: a brave new world
 
 During this time I became a Linux distro developer and package maintainer.
-I volunteered on Funtoo Linux in the beginning, troubleshooting [[https://en.wikipedia.org/wiki/Daniel_Robbins_(computer_programmer)][Daniel Robbins]] new distro.
-Drobbins is the creator of Gentoo Linux, you may have heard of it.
+I volunteered on Funtoo Linux in the beginning, troubleshooting [[https://en.wikipedia.org/wiki/Daniel_Robbins_(computer_programmer)][Daniel Robbin's]] new distro, [[https://www.funtoo.org/Welcome][Funtoo Linux]], and writing
+technical documentation like this [[https://www.funtoo.org/Libvirt][Libvirt wiki page.]] Drobbins is the creator of [[https://www.gentoo.org/][Gentoo Linux]]-- you may have heard of it.
 
-I have had numerous mentors who have been invaluable on my learning path,
+I went on a brief stint with [[https://nixos.org/][NixOS]], where with the oversight of [[https://github.com/dustinlacewell][Dustin Lacewell aka ldlework,]] (my only Silicon Valley friend in tech),
+I built my own [[https://github.com/a-schaefers/themelios][zfs-on-root installer called Themelios]] which still enjoys some usage to this day.
+NixOS is interesting, I'll just say that-- and I respect the work they're doing, along with [[https://guix.gnu.org/en/download/][Guix]], but I've come to prefer
+a simpler approach that is [[https://sta.li/][Stali Linux]] and [[https://github.com/oasislinux/oasis][OASIS]]. While I understand the problems solved by dynamic linking and the attempt to
+resolve the accompanying dependency hell issues in the the [[https://edolstra.github.io/pubs/nspfssd-lisa2004-final.pdf][nix whitepapers,]] I tend to prefer instead the simpler solution of static linking,
+as disk space is no longer expensive.
 
-Zeb of the CoosLug local user group and spreedly.com
-Chris Giorgi of #gentoo / #funtoo, awk-programmer extraordinaire on Freenode
-Dylanaraps, creator of the pure-bash-bible and the KISS Linux distro
-asx, all-around hardware nerd, old school unix hacker at #commanduser on Freenode
-John Ramsden, DevOps at Skvare
+After that I distro hopped on over to [[https://kisslinux.org/][KISS (Keep it simple, stupid) Linux]] where I worked with [[https://github.com/dylanaraps][Dylan Araps]], author of [[https://github.com/dylanaraps/neofetch][Neofetch]]. This distro is amazing,
+and only uses some odd 30 Megabytes of RAM.
+Dylan became another one of my all-time great mentors. I am the [[https://github.com/dylanaraps/community/graphs/contributors][number two all-time committer]] on the classic community repo,
+as I was maintaining the [[https://suckless.org/][suckless]] and [[https://www.gnu.org/home.en.html][GNU stacks]]. One time I fixed a bug in a package written in C, and submitted a patch [[https://bugzilla.kernel.org/show_bug.cgi?id=206741][where it officially was merged]]
+at [[https://kernel.org/][Kernel.org]]. I also did some work on the KISS init scripts and a lot of testing for the package manager.
+I'll never forget the day I left the project, and [[https://github.com/dylanaraps/community/issues/1165][released my packages that I was maintaining back to the KISS community.]] I made that
+decision as I was nearing getting married in 2020, and I was also finally working in a paid capacity.
 
+During this phase I really felt like I had graduated. Tools like ~find~, ~grep~, ~git~, ~patch~ and ~diff~ would now be second nature. I built my own [[https://github.com/a-schaefers/spartan-emacs][Emacs framework called "Spartan Emacs"]]. I knew POSIX shell and Bash,
+Lisp, some C, Ruby and Python. I was finally a software developer and it was time for a job.
 
-General Courses, Southwestern Oregon Community College
-Self-learner
+Open source software experience is the best and it makes me who I am. This experience, to this day, is more valuable than anything I have ever done in paid capacity.
 
-
+Beyond this, I learned a lot about PATH and ENVIRONMENT in Linux, and that [[https://blog.sanctum.geek.nz/series/unix-as-ide/][Unix can be your IDE.]] Here's some classic books on the subject,
+[[https://www.amazon.com/Unix-Programming-Environment-Prentice-Hall-Software/dp/013937681X][The Unix Programming Environment]] and [[https://www.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628][C Programming Language]] by K&R.
 
 ** Certifications
 Terraform
@@ -305,3 +341,5 @@ Misc. Bug Reports
 [fn:g] https://en.wikipedia.org/wiki/Edward_Snowden -- Snowden, a real American hero.
 
 [fn:h] https://www.youtube.com/watch?v=SsoOG6ZeyUI -- Silicon Valley features Vim vs. Emacs and Spaces vs. Tabs
+
+[fn:i] https://en.wikipedia.org/wiki/RTFM -- RTFM is an initialism and internet slang for the expression "read the fucking manual" – typically used to reply to a basic question where the answer is easily found in the documentation, user guide, owner's manual, man page, online help, internet forum, software documentation or FAQ.
