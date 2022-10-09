@@ -280,6 +280,8 @@ My primary respnsibilties were as follows:
 It was here where I learned the ability to utilize Redmine effectively and how to communicate professionally with my peers,
 something that is some-what lacking in the Open Source world.
 
+It was also here where I nearly received an honorary business degree through salary negotiations with the agency I consulted through.
+
 #+BEGIN_EXPORT html
 <hr/>
 #+END_EXPORT
