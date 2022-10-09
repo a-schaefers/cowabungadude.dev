@@ -280,8 +280,6 @@ My primary respnsibilties were as follows:
 It was here where I learned the ability to utilize Redmine effectively and how to communicate professionally with my peers,
 something that is some-what lacking in the Open Source world.
 
-It was also here where I nearly received an honorary business degree through salary negotiations with the agency I consulted through.
-
 #+BEGIN_EXPORT html
 <hr/>
 #+END_EXPORT
@@ -395,41 +393,9 @@ lg==
 # * Certifications
 
 # I've been picking up certifications lately, my employer likes them. Moreso, it's a fancy badge.
-
 # Terraform
 # AWS Devops
-
-# * Experience
-
-# ** Immaculata Studios, 2021---Present
-# ** Devops Consulting, 2020---2021
-# ** KISS Linux - (GNU stack package maintainer), 2019—2020
-# ** Self-imposed devops bootcamp - Perfecting my craft, 2016—2019
-# ** My first Linux distro - Ubuntu 8.04 Hardy Heron, —2008
-
-# * Interests
-# Linux
-# DevOps
-# Debugging and problem solving
-# Simple performant fault-tolerant systems
-# Task automation
-# Security & privacy
-
-# * Current research
-# Python. I want to use Python to replace Posix sh and Bash, especially in MySQL administration.
-# MySQL database administration at scale. I'm researching how to make databases with millions of records and insane JOIN queries faster.
-# ** Python
-# I want to use Python to replace Posix sh and Bash, especially in MySQL administration.
-
-# ** MySQL database administration at scale.
-# I'm researching how to make databases with millions of records and insane JOIN queries faster.
-
-
 # * Current reading list
-# Python Crash Course
 # Python Workout: 50 ten-minute exercises
 # Getting Started with SQL
 # SQL Practice Problems
-
-# * Work responsibilities
-#
