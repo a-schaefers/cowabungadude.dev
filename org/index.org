@@ -44,15 +44,9 @@ My father taught me that if you want something done right, then you need to do i
 This comes in to play later on when I realized out that I could learn anything I wanted on the internet--
 that the original hacker spirit is the Unix Philosophy [fn:a] with DIY ethos. [fn:b]
 
-* social engineering: from hacking people to hacking machines
+* social engineering 101
 
 [[./assets/images/waikiki.jpg]]
-
-#+BEGIN_QUOTE
-~Social Engineering: (in the context of information security) the use of deception to manipulate individuals into divulging confidential or personal information that may be used for fraudulent purposes.~
-
-/---google/
-#+END_QUOTE
 
 I dropped out of college early on, not having a high regard for the system (see [[https://archive.org/stream/The_Conscience_of_a_Hacker/hackersmanifesto.txt]["Hacker's Manifesto"]]) [fn:c] at the time.
 I traveled and read a lot of books on Philosophy, History, Theology and English -- as any millennial should.
@@ -63,7 +57,7 @@ There I worked as a Valet Driver, Bellman, Doorman in some of the nicest Hotels 
 A few years back I found a random photograph of myself (see above) while googling one of old my hotels.
 
 While not malevolent-- little did I know at the time-- that I was receiving a free education in social engineering.
-The name of the game was called "Did he (/or she/) tip you?" and we knew how to get tipped-- unwittingly by hacking people.
+The name of the game was called "Did he (/or she/) tip you?"
 Like any good flick on HBO Max, the illusion was wealth and the key was social discourse.
 These skills would be invaluable later while working in tech as a white hat.
 
