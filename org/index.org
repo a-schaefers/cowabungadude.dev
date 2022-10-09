@@ -4,9 +4,9 @@
 
 * about
 
-This page tells the story of my journey in to professional computing.
-
 [[./assets/images/wedding-small.jpg]]
+
+This page tells the story of my journey in to professional computing.
 
 Here's me, just married 9/19/2020 A.D. --- during the apocalypse
 
@@ -18,17 +18,15 @@ The opinions here are my own and do not represent my company.
 
 [[./assets/images/220px-Ibm_px_xt_color.jpg]]
 
-My first computer was one of these, pre-loaded by dad with a boat load of cracked games, such as [[https://www.youtube.com/watch?v=QT6bVDxOs3k]["Hopper."]]
+My first computer was an XT, pre-loaded by dad with a boat load of cracked games, such as [[https://www.youtube.com/watch?v=QT6bVDxOs3k]["Hopper."]]
 
 This box was the mystery of my childhood-- I knew it had potential to do really cool things, if only I could connect to the internet.
-
 There was always some odd file that I would find on the system and then I would try to figure out if it was a program that I could execute.
-
 I learned DOS commands and batch scripts early on in this way, before GUI's were much of a thing.
 
-I was running my own WAMP stacks and messing around with frameworks like "Php Nuke", "PhpBB" and exploring Geocities in Junior High. This was all mostly to make cool websites for my video game "clans."
+I was running my own WAMP stacks and messing around with frameworks like "Php Nuke", "PhpBB" and exploring Geocities in Junior High. This was all mostly to make cool websites for my video game clans. [fn:k]
 
-* diy ethics and unix philosophy
+* a self taught person -- diy ethics and unix philosophy
 
 [[./assets/images/Great_Books.jpg]]
 
@@ -75,10 +73,18 @@ In this way, I have always been a "hacker."
 
 [[./assets/images/Panda-Fork-Chopsticks-01.jpg]]
 
+#+BEGIN_QUOTE
+~white hat: a person who hacks into a computer network in order to test or evaluate its security systems.~
+
+~black hat: a person who hacks into a computer network with malicious or criminal intent.~
+
+/---google/
+#+END_QUOTE
+
+Recruiter note: I'm a blue-team, white hat guy -- I like to think of myself as one of the good guys! [fn:d]
+
 What does hacking and work in the service industry have in common? Playful cleverness.
 In "Did he (/or she/) tip you 101, we quickly learn that to get tips, we have to have fun the guests.
-
-Similarly put by an O.G. hacker,
 
 #+BEGIN_QUOTE
 I went to lunch with some GNU fans, and was sitting down to eat some tteokbokki (*), when a waitress set down six chopsticks right in front of me.
@@ -119,29 +125,9 @@ Dave's a champ.
 
 Admittedly, I used to [[https://www.reddit.com/r/unixporn/comments/3iy3wd/stupid_question_what_is_ricing/][rice]] my desktop back then. I used VIM like a pleb[fn:j] and apparently [[https://github.com/a-schaefers/i3-wm-gruvbox-theme][people still like my work in that regard]].
 
-[[./assets/images/gruv-sadkitty-clean.png]]
+# [[./assets/images/gruv-sadkitty-clean.png]]
 
-* white hats: see, hackers aren't all bad
-
-#+BEGIN_QUOTE
-~white hat: a person who hacks into a computer network in order to test or evaluate its security systems.~
-
-/---google/
-#+END_QUOTE
-
-As opposed to "black hat,"
-
-#+BEGIN_QUOTE
-~black hat: a person who hacks into a computer network with malicious or criminal intent.~
-
-/---google/
-#+END_QUOTE
-
-Recruiter note: I like to think of myself as one of the good guys!
-
-Now Google famously had a [[https://en.wikipedia.org/wiki/Don%27t_be_evil]["Don't be evil"]] Code of Conduct. [fn:d] [[https://www.youtube.com/watch?v=OaTKaHKCAFg][And I would that they still did...]] I digress...
-
-* want to join a tech cult? There's pizza...
+* want to join a tech cult? there's pizza...
 
 [[./assets/images/tmnt-donatello.gif]]
 
@@ -153,10 +139,6 @@ Did you even google it? RTFM dude... [fn:i]
 
 There are even holy wars in tech, see Vim vs. Emacs and Tabs vs. Spaces, as brilliantly demonstrated in the T.V. sitcom Silicon Valley, [fn:h]
 
-#+BEGIN_EXPORT html
-<iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0" width="560" height="340" type="text/html" src="https://www.youtube.com/embed/SsoOG6ZeyUI?autoplay=0&fs=0&iv_load_policy=3&showinfo=0&rel=0&cc_load_policy=0&start=0&end=0&origin=http://youtubeembedcode.com"></iframe>
-#+END_EXPORT
-
 I started [[https://github.com/cooslug][COOSLUG]] (*Coos* Bay, Oregon) *L* inux *U* ser *G* roup with my buddy [[https://github.com/bayprogrammer][Zeb DeOs]], the only other Hacker I knew in the area. He's a prominent full stack developer
 and I owe this guy everything career-wise.
 
@@ -165,9 +147,9 @@ In a world where things are so often out of our control, the fact that we can pr
 We met once a month or so and ordered pizza, with prolonged Emacs hacking sessions and candid discussions on the state of the industry, jobs and
 open source software.
 
-* the bootcamp years and imposter syndrome
+* the self-imposed bootcamp years -- learning to code
 
-[[./assets/images/If-you-dream-it--you-can-do-it--1-.png]]
+[[./assets/images/Linus-Torvalds-quote-about-talking-2a9797.jpg]]
 
 Imposter Syndrome is a funny thing. When you're feeling impostery you know that, /"I'm good enough to be here and do this job."/
 -- but you don't feel that way on the inside.
@@ -185,7 +167,7 @@ FreeBSD, the same-- and I actually read [[https://docs.freebsd.org/en/books/hand
 I learned the ins-and-outs of [[https://aws.amazon.com/][AWS]]: ~Route53~, ~S3~, ~EC2~, ~Cloudfront~ and more.
 I settled on a text editor, ~emacs~ and started to form my own opinions on things.
 
-I had another mentor during this period of my life, [[https://github.com/TemptorSent][Chris Giorgi]] of #gentoo / #funtoo on Freenode, he was an [[https://www.amazon.com/AWK-Programming-Language-Alfred-Aho/dp/020107981X][awk-programmer extraordinaire]].
+I had another mentor during this period of my life, (this was back when ~systemd~ was still a debate), [[https://github.com/TemptorSent][Chris Giorgi]] of #gentoo / #funtoo on Freenode, he was an [[https://www.amazon.com/AWK-Programming-Language-Alfred-Aho/dp/020107981X][awk-programmer extraordinaire]].
 He taught me how to use [[https://zfsonlinux.org/][ZFS]]. He taught me that there are shell scripts and then there are /shell scripts/.
 Finally, somebody more paranoid than I was, he sanity checked and validated /every/ input variable.
 
@@ -198,19 +180,22 @@ evil () {
 evil
 #+END_SRC
 
-Better yet, as we all love good one-liner, ~:(){ :|:& };:~ Now put that in your Terminal and smoke it! Corny jokes aside, I learned POSIX shell script and system administration here in this phase, which leads in to the Devops path now-a-days.
+Better yet, as we all love good one-liner, ~:(){ :|:& };:~ Now put that in your Terminal and smoke it! I learned POSIX shell script and system administration here in this phase, which leads in to the Devops path now-a-days.
 
 Programmers need to use the Terminal and know some Bash, but when you're working on an embedded system with limited disk space, you're probably not
 going to have Bash, and your [[https://mywiki.wooledge.org/Bashism][bashisms]] are going to fail you. But shell is there, and [[https://en.wikipedia.org/wiki/POSIX][POSIX is still KING]].
 
-* open source: a brave new world
+* free and open source software experience
 
 [[./assets/images/Free_and_open-source_software_logo_(2009).svg.png]]
 
+** documentation writing at funtoo
 During this time I became a Linux distro developer and package maintainer.
 I volunteered on Funtoo Linux in the beginning, troubleshooting [[https://en.wikipedia.org/wiki/Daniel_Robbins_(computer_programmer)][Daniel Robbin's]] new distro, [[https://www.funtoo.org/Welcome][Funtoo Linux]], and writing
 technical documentation like this [[https://www.funtoo.org/Libvirt][Libvirt wiki page.]] Drobbins is the creator of [[https://www.gentoo.org/][Gentoo Linux]]-- you may have heard of it.
 
+
+** creating a nixos installer
 I went on a brief stint with [[https://nixos.org/][NixOS]], where with the oversight of [[https://github.com/dustinlacewell][Dustin Lacewell aka ldlework,]] (my only Silicon Valley friend in tech),
 I built my own [[https://github.com/a-schaefers/themelios][zfs-on-root installer called Themelios]] which still enjoys some usage to this day.
 NixOS is interesting, I'll just say that-- and I respect the work they're doing, along with [[https://guix.gnu.org/en/download/][Guix]], but I've come to prefer
@@ -218,6 +203,7 @@ a simpler approach that is [[https://sta.li/][Stali Linux]] and [[https://github
 resolve the accompanying dependency hell issues in the [[https://edolstra.github.io/pubs/nspfssd-lisa2004-final.pdf][nix whitepapers,]] I tend to prefer instead the simpler solution of static linking,
 as disk space is no longer expensive.
 
+** becoming a linux distro dev and package maintainer
 After that I distro hopped on over to [[https://kisslinux.org/][KISS (Keep it simple, stupid) Linux]] where I worked with [[https://github.com/dylanaraps][Dylan Araps]], author of [[https://github.com/dylanaraps/neofetch][Neofetch]]. This distro is amazing,
 and only uses some odd 30 Megabytes of RAM.
 Dylan became another one of my all-time great mentors. I am the [[https://github.com/dylanaraps/community/graphs/contributors][number two all-time committer]] on the classic community repo,
@@ -226,127 +212,113 @@ at [[https://kernel.org/][Kernel.org]]. I also did some work on the KISS init sc
 I'll never forget the day I left the project, and [[https://github.com/dylanaraps/community/issues/1165][released my packages that I was maintaining back to the KISS community.]] I made that
 decision as I was nearing getting married in 2020, and I was also working in a paid capacity.
 
+** writing my own init scripts
 Around this time also, I wrote my own Linux init scripts using the Emacs Lisp programming language, dubbed [[https://github.com/a-schaefers/systemE]["SystemE"]] by a friend on IRC (trolling systemd) and I hit
 the [[https://news.ycombinator.com/item?id=22120510][Hacker News Top 10]] for a day, and I was pretty jazzed about that, but it was just a joke. Playful and clever, maybe? :)
 
-During this phase I really felt like I had graduated. Tools like ~ssh~,n ~gpg~, ~find~, ~grep~, ~git~, ~patch~ and ~diff~ would now be second nature.
+** creating my own emacs distro and more
+During this phase I really felt like I had graduated. Tools like ~ssh~, ~gpg~, ~find~, ~grep~, ~git~, ~patch~ and ~diff~ would now be second nature.
 I built my own [[https://github.com/a-schaefers/spartan-emacs][Emacs framework called "Spartan Emacs"]]. I knew POSIX shell and Bash,
 Emacs Lisp, Common Lisp; some C, Ruby and Python. I was finally a software developer and it was time for a job.
 
 Beyond this, I learned a lot about ~PATH~ and ~ENVIRONMENT~ in Linux, and that [[https://blog.sanctum.geek.nz/series/unix-as-ide/][Unix can be your IDE.]] Here's some classic books on the subject,
 [[https://www.amazon.com/Unix-Programming-Environment-Prentice-Hall-Software/dp/013937681X][The Unix Programming Environment]] and [[https://www.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628][C Programming Language]] by K&R.
 
-Open source software experience is the best and it makes me who I am. This experience, to this day, is more valuable than anything I have ever done in paid capacity.
+Open source software experience is the best and it makes me who I am. This experience, to this day, is more valuable to me than anything I have ever done in paid capacity.
 
+* Devops Consulting 2020 -- 2021 (remote worker extraordinaire)
 
+[[./assets/images/ET-blogpost-remoteworker-May15.png]]
 
-* Certifications
+In 2020 I ran my own Devops consulting business, mainly maintaining servers and providing traditional system administration services for large non profits.
 
-I've been picking up certifications lately, my employer likes them. Moreso, it's a fancy badge.
+I collaborated with many other developers during this time. We used Mattermost, Redmine, Google Calendar, and various video software communication platforms for communication means.
 
+My primary respnsibilties were as follows:
 
-Terraform
-AWS Devops
++ Find, report and fix bugs
++ Collaborate with a team using version control
++ Documentation writing
++ Implement an effective CI/CD pipeline
++ Evaluate various DevOps solutions and make recommendations
++ Migrate and deploy large Drupal and Civicrm websites
++ Monitor and maintain public and private dev, staging and production servers
++ Monitor and maintain high volume mail servers
++ Research performance optimization issues
++ Assist devs and project managers to better serve our clients
 
-* Experience
+It was here where I learned the ability to utilize Redmine effectively and how to communicate professionally with my peers,
+something that is some-what lacking in the Open Source world.
 
-** Immaculata Studios, 2021---Present
-** Devops Consulting, 2020---2021
-** KISS Linux - (GNU stack package maintainer), 2019—2020
-** Self-imposed devops bootcamp - Perfecting my craft, 2016—2019
-** My first Linux distro - Ubuntu 8.04 Hardy Heron, —2008
+* Devops at Immaculata Studios 2021 -- Present (automation life)
 
-* Interests
-Linux
-DevOps
-Debugging and problem solving
-Simple performant fault-tolerant systems
-Task automation
-Security & privacy
+[[./assets/images/terra_aws.png]]
 
-* Technology I use
++ TO BE CONTINUED...
 
-** GNU / Linux (Redhat, Ubuntu, Arch, NixOS...)
-** Emacs
-** Git
-** SSH
-** GPG
-** Posix Shell / Bash
-** MySQL
-** ZFS
-** Php
-** Python
-** Drupal
-** Civicrm
-** Docker
-** Ansible
-** AWS (Route53, Cloudfront, S3, EC2, SES, aws-cli, etc.)
-
-* Current research
-Python. I want to use Python to replace Posix sh and Bash, especially in MySQL administration.
-MySQL database administration at scale. I'm researching how to make databases with millions of records and insane JOIN queries faster.
-** Python
-I want to use Python to replace Posix sh and Bash, especially in MySQL administration.
-
-** MySQL database administration at scale.
-I'm researching how to make databases with millions of records and insane JOIN queries faster.
-
-* Blog
-
-[[file:blog/][Journey in Computing]]
-
-
-
-* Current reading list
-Python Crash Course
-Python Workout: 50 ten-minute exercises
-Getting Started with SQL
-SQL Practice Problems
-
-* Work responsibilities
-Find, report and fix bugs
-Collaborate with a team using version control
-Documentation writing
-Implement an effective CI/CD pipeline
-Evaluate various DevOps solutions and make recommendations
-Migrate and deploy large Drupal and Civicrm websites
-Monitor and maintain public and private dev, staging and production servers
-Monitor and maintain high volume mail servers
-Research performance optimization issues
-Assist devs and project managers to better serve our clients
-
-* Work projects
-
-
-Sometimes I get assigned fun little coding projects,
-
-Redmine uploader - Using the Redmine API, pipe content to my redmine uploader script to update internal redmine issues
-Hosting stats - Gather monthly hosting statistics and post them to redmine
-Slow-site checker - Alert us if sites are loading "slow"
-Uptime checker - Alert us if sites are down
-Misc. ZFS dataset management and maintenance scripts
-Create a local docker-compose environment that imitates what we use in production for our dev team
-
-* Side projects
-
-Cooslug was founded in 2018, which consisted of only Zeb and I, but we made it awesome
-SystemE (using Emacs to init my operating system) made the top 10 on Hacker News for a day
-Spartan Emacs distro
-Themelios (a NixOS on ZFS installer)
-I'm interested in creating a relatively decentralized, secure and private communication platform similar to https://riseup.net
-
-* Open source
-
-** Kernel.org
-[PATCH] libcap 2.33 use sched_yield instead of pthread_yield
-Funtoo Linux Libvirt documentation
-Commits to the KISS Linux package manager
-Commits to the KISS Linux init scripts
-Commits to KISS Linux community packages
-Misc. Bug Reports
-
+# * Blog
+# [[file:blog/][Journey in Computing]]
 
 * Contact
+
+Drop me a line, ~schaefers@riseup.net~
+
+#+BEGIN_SRC txt
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+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
+lg==
+=7R/z
+-----END PGP PUBLIC KEY BLOCK-----
+#+END_SRC
+
+
 
 [fn:a] https://en.wikipedia.org/wiki/Unix_philosophy -- The Unix philosophy, originated by Ken Thompson, is a set of cultural norms and philosophical approaches to minimalist, modular software development.
 
@@ -358,7 +330,7 @@ Misc. Bug Reports
 
 [fn:c] https://archive.org/stream/The_Conscience_of_a_Hacker/hackersmanifesto.txt -- Ah, to be an angsty teenager again.
 
-[fn:d] https://en.wikipedia.org/wiki/Don%27t_be_evil -- Google famously had a "Don't be evil" Code of Conduct.
+[fn:d] https://en.wikipedia.org/wiki/Don%27t_be_evil -- Google famously had a "Don't be evil" Code of Conduct. [[https://en.wikipedia.org/wiki/Don%27t_be_evil]["And I would that they still did...]] I digress...
 
 [fn:e] https://www.census.gov/library/stories/2021/03/homeschooling-on-the-rise-during-covid-19-pandemic.html -- once thought of as odd, it's now the new normal!
 
@@ -368,7 +340,56 @@ Misc. Bug Reports
 
 [fn:h] https://www.youtube.com/watch?v=SsoOG6ZeyUI -- Silicon Valley features Vim vs. Emacs and Spaces vs. Tabs
 
+#+BEGIN_EXPORT html
+<iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0" width="560" height="340" type="text/html" src="https://www.youtube.com/embed/SsoOG6ZeyUI?autoplay=0&fs=0&iv_load_policy=3&showinfo=0&rel=0&cc_load_policy=0&start=0&end=0&origin=http://youtubeembedcode.com"></iframe>
+#+END_EXPORT
+
 [fn:i] https://en.wikipedia.org/wiki/RTFM -- RTFM is an initialism and internet slang for the expression "read the fucking manual" – typically used to reply to a basic question where the answer is easily found in the documentation, user guide, owner's manual, man page, online help, internet forum, software documentation or FAQ.
 
 [fn:j] pleb -- an ordinary person, especially one from the lower social classes.
 /---google/
+
+[fn:k] https://en.wikipedia.org/wiki/Clan_(video_games)
+
+
+# * Certifications
+
+# I've been picking up certifications lately, my employer likes them. Moreso, it's a fancy badge.
+
+# Terraform
+# AWS Devops
+
+# * Experience
+
+# ** Immaculata Studios, 2021---Present
+# ** Devops Consulting, 2020---2021
+# ** KISS Linux - (GNU stack package maintainer), 2019—2020
+# ** Self-imposed devops bootcamp - Perfecting my craft, 2016—2019
+# ** My first Linux distro - Ubuntu 8.04 Hardy Heron, —2008
+
+# * Interests
+# Linux
+# DevOps
+# Debugging and problem solving
+# Simple performant fault-tolerant systems
+# Task automation
+# Security & privacy
+
+# * Current research
+# Python. I want to use Python to replace Posix sh and Bash, especially in MySQL administration.
+# MySQL database administration at scale. I'm researching how to make databases with millions of records and insane JOIN queries faster.
+# ** Python
+# I want to use Python to replace Posix sh and Bash, especially in MySQL administration.
+
+# ** MySQL database administration at scale.
+# I'm researching how to make databases with millions of records and insane JOIN queries faster.
+
+
+# * Current reading list
+# Python Crash Course
+# Python Workout: 50 ten-minute exercises
+# Getting Started with SQL
+# SQL Practice Problems
+
+# * Work responsibilities
+#
