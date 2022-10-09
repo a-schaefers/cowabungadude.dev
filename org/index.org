@@ -1,28 +1,206 @@
 #+AUTHOR: Adam Schaefers
-#+EMAIL: mailto:schaefers@riseup.net
-#+TITLE: Portfolio
-#+HTML_DOCTYPE: <!DOCTYPE html>
-#+LANGUAGE: en
-#+HTML_HEAD: <link href="http://fonts.googleapis.com/css?family=Roboto+Slab:400,700|Inconsolata:400,700" rel="stylesheet" type="text/css" />
-#+HTML_HEAD: <link href="./assets/css/style.css" rel="stylesheet" type="text/css" />
+#+EMAIL: schaefers@riseup.net
+#+TITLE: Portfolio of Adam Schaefers
 
-* About
+* the art of hacking
 
-[[./assets/images/tmnt-donatello.gif]]
+This page is an [[https://www.gnu.org/software/emacs/][Emacs]] [[https://orgmode.org/][org-mode document]] and tells the story of my journey in to professional computing.
 
-C-c-C-xC-v toggles images double square brackets ./path/to/thing
-C-c C-l org-insert-link
+[[./assets/images/wedding-small.jpg]]
 
-This could be a website in the future.
+Here's me, just married 9/19/2020 A.D. --- during the apocalypse
 
-** Education
+** In the beginning...
 
-My Kiddo Dominic is the coolest and has a cool haircut.
+[[./assets/images/220px-Ibm_px_xt_color.jpg]]
+
+My first computer was one of these, pre-loaded by dad with a boat load of cracked games, such as [[https://www.youtube.com/watch?v=QT6bVDxOs3k]["Hopper."]]
+
+This box was the mystery of my childhood-- I knew it had potential to do really cool things, if only I could connect to the internet.
+
+There was always some odd file that I would find on the system and then I would try to figure out if it was a program that I could execute.
+
+I learned DOS commands and batch scripts early on in this way, before GUI's were much of a thing.
+
+I was running my own WAMP stacks and messing around with frameworks like "Php Nuke", "PhpBB" and exploring Geocities in Junior High. This was all mostly to make cool websites for my video game "clans."
+
+** diy ethics and unix philosophy
+
+#+BEGIN_QUOTE
+~au·to·di·dact: a self-taught person~
+
+/---google/
+#+END_QUOTE
+
+I graduated High School in 2006.
+I was homeschooled before it was the cool thing to do. [fn:e] My parents were very forward-thinking in this regard.
+
+My father taught me that if you want something done right, then you need to do it yourself.
+
+This comes in to play later on when I realized out that I could learn anything I wanted on the internet--
+that the original hacker spirit is the Unix Philosophy [fn:a] with DIY ethos. [fn:b]
+
+** social engineering: from hacking people to hacking machines
+
+#+BEGIN_QUOTE
+~Social Engineering: (in the context of information security) the use of deception to manipulate individuals into divulging confidential or personal information that may be used for fraudulent purposes.~
+
+/---google/
+#+END_QUOTE
+
+I dropped out of college early on, not having a high regard for the system [fn:c] at the time.
+I traveled and read a lot of books on Philosophy, History, Theology and English -- as any millennial should.
+
+I landed in Honolulu, Hawaii.
+There I worked as a Valet Driver, Bellman, Doorman in some of the nicest Hotels and Restaurants on the Waikiki strip.
+
+[[./assets/images/waikiki.jpg]]
+
+A few years back I found a random photograph of myself by googling one of my hotel names.
+
+While not malevolent-- little did I know at the time-- that I was receiving a free education in social engineering.
+The name of the game was called "Did he (/or she/) tip you?" and we knew how to get tipped-- unwittingly by hacking people.
+Like any good flick on HBO Max, the illusion was wealth and the key was social discourse.
+These skills would be invaluable later while working in tech as a white hat.
+
+In this way, I have always been a "hacker."
+
+** hacking: not a bad thing, a fun thing!
+
+What does hacking and work in the service industry have in common? Playful cleverness.
+In "Did he (/or she/) tip you 101, one quickly learns that to get tips, you have to have fun with your guests.
+
+Similarly put by an O.G. hacker,
+
+#+BEGIN_QUOTE
+I went to lunch with some GNU fans, and was sitting down to eat some tteokbokki (*), when a waitress set down six chopsticks right in front of me.
+It occurred to me that perhaps these were meant for three people, but it was more amusing to imagine that I was supposed to use all six.
+I did not know any way to do that, so I realized that if I could come up with a way, it would be a hack. I started thinking. After a few seconds I had an idea.
+
+First I used my left hand to put three chopsticks into my right hand.
+That was not so hard, though I had to figure out where to put them so that I could control them individually. Then I used my right hand to put the other three chopsticks into my left hand. That was hard, since I had to keep the three chopsticks already in my right hand from falling out. After a couple of tries I got it done.
+
+/--- Richard Stallman, Creator of Emacs and GNU coreutils, [[https://stallman.org/articles/on-hacking.html][On Hacking]]/ [fn:f]
+#+END_QUOTE
+
+** Blade Runner IRL
+
+One day I looked up from my hotel with my Bellman standing next to me, and we noticed the glint of a scope from a far-off hotel room flashing at us.
+
+Somebody was watching us. Nothing ever came of it, but we found it very odd at the time.
+
+Also around that time Snowden [fn:g] was revealing to the citizens of the United States that the government was illegally spying on all of us.
+
+Since I always had a natural /aptitude/ for computing-- after all my first Linux distro was Ubuntu 8.04 Hardy Heron ~2008--
+I found all this was very interesting to think about.
+When Snowden revealed that smartphones were backdoored by the NSA, among other things, it reignited something in me.
+
+Around this time I found renewed joy in computing, and the cypher-punk feels of Linux. In those days one would have found me growing out my neckbeard whilst reverse SSH tunneling 10 servers deep before connecting to the
+TOR network (and every other privacy-centric network I could find.)
+I soon joined various IRC channels, where we would discuss merits of various Linux distros and open-source software for hours.
+It was just a hobby at first-- that is, privacy and security research-- I hadn't the slightest where this would all lead.
+
+I soon found myself moving back to Oregon, where I was born raised. I told my parents at the time, "There's something good here, I'm learning a lot.
+I will be doing this for a living soon enough, but there's a lot to learn first..."
+
+I started watching [[https://www.youtube.com/c/BryanLunduke/videos][The Lunduke Show]]. I went to /YouTube University/, catching every [[https://www.youtube.com/c/tutoriaLinux/videos][TutoriaLinux (Dave Cohen)]] episode I could --
+I sent him a thank you Email years later along the lines, "Hey, thanks for sharing your knowledge and helping me to get grounded in the industry." He replied back, too.
+Dave's a champ in my book.
+
+** white hats: seriously, hackers aren't all bad
+
+#+BEGIN_QUOTE
+white hat: a person who hacks into a computer network in order to test or evaluate its security systems.
+
+~"While security dudes tend to speak in terms of black or white hats, it seems to me that nearly all hats are in varying shades of grey."~
+
+/---google/
+#+END_QUOTE
+
+As opposed to "black hat,"
+
+#+BEGIN_QUOTE
+black hat: a person who hacks into a computer network with malicious or criminal intent.
+
+~"Black hats have a history of disassembling source code and looking for lapses."~
+
+/---google/
+#+END_QUOTE
+
+Recruiter note: I like to think of myself as one of the good guys!
+
+Now Google famously had a [[https://en.wikipedia.org/wiki/Don%27t_be_evil]["Don't be evil"]] Code of Conduct. [fn:d] [[https://www.youtube.com/watch?v=OaTKaHKCAFg][And I would that they still did...]] I digress...
+
+** Want to join a tech cult?
+
+Like any good cult, I found that tech has its own jargon and can give you sense of identity,
+
+#+BEGIN_QUOTE
+Did you even google it? RTFM dude...
+#+END_QUOTE
+
+There are even holy wars in tech, see Vim vs. Emacs [fn:h]
+
+I started COOSLUG (**Coos** Bay, Oregon) **L** inux **U** ser **G** roup with my buddy [[https://github.com/bayprogrammer][Zeb DeOs]], the only other Hacker I knew in the area. He's a prominent full stack developer
+and I owe this guy everything career-wise.
+
+In a world where things are so often out of our control, the fact that we can program computers do exactly what we want is a strange comfort, and we shared this in common.
+
+https://github.com/cooslug
+
+We met once a month or so and ordered pizza, with prolonged Emacs hacking sessions and candid discussions on the state of the industry, jobs and
+open source software.
+
+** The bootcamp years and imposter syndrome
+
+Imposter Syndrome is a funny thing. It's like you know, "I'm good enough to be here and do this job." But you don't feel that way on the inside.
+
+I suspect it stems from the ever-changing, ever-learning nature of tech.
+
+I recommend you accept that and forget about it. There's nothing wrong with you dude, you're fine!
+
+I spent several years in hell, I mean, I built the place! I don't regret it, but I also don't recommend it.
+
+I was on the computer 12 hours every day, studying. I felt like I had something to prove, and that I needed to be the best before I entered the field full-time
+in a paid atmosphere (job.)
+
+During this time I became a Linux distro developer and package maintainer.
+I volunteered on Funtoo Linux in the beginning, troubleshooting [[https://en.wikipedia.org/wiki/Daniel_Robbins_(computer_programmer)][Daniel Robbins]] new distro.
+Drobbins is the creator of Gentoo Linux, you may have heard of it.
+
+I have had numerous mentors who have been invaluable on my learning path,
+
+Zeb of the CoosLug local user group and spreedly.com
+Chris Giorgi of #gentoo / #funtoo, awk-programmer extraordinaire on Freenode
+Dylanaraps, creator of the pure-bash-bible and the KISS Linux distro
+asx, all-around hardware nerd, old school unix hacker at #commanduser on Freenode
+John Ramsden, DevOps at Skvare
+
+
+General Courses, Southwestern Oregon Community College
+Self-learner
+
+
+
 ** Certifications
+Terraform
+AWS Devops
 
 ** Experience
 
+*** Immaculata Studios, 2021---Present
+*** Devops Consulting, 2020---2021
+*** KISS Linux - (GNU stack package maintainer), 2019—2020
+*** Self-imposed devops bootcamp - Perfecting my craft, 2016—2019
+*** My first Linux distro - Ubuntu 8.04 Hardy Heron, —2008
+
 ** Interests
+Linux
+DevOps
+Debugging and problem solving
+Simple performant fault-tolerant systems
+Task automation
+Security & privacy
 
 ** Technology I use
 
@@ -43,25 +221,87 @@ My Kiddo Dominic is the coolest and has a cool haircut.
 *** AWS (Route53, Cloudfront, S3, EC2, SES, aws-cli, etc.)
 
 ** Current research
+Python. I want to use Python to replace Posix sh and Bash, especially in MySQL administration.
+MySQL database administration at scale. I'm researching how to make databases with millions of records and insane JOIN queries faster.
 *** Python
 I want to use Python to replace Posix sh and Bash, especially in MySQL administration.
 
 *** MySQL database administration at scale.
 I'm researching how to make databases with millions of records and insane JOIN queries faster.
 
-** Blog
+* Blog
+
+[[file:blog/][Journey in Computing]]
 
 
-*** Current reading list
-contents
+
+** Current reading list
+Python Crash Course
+Python Workout: 50 ten-minute exercises
+Getting Started with SQL
+SQL Practice Problems
 
 ** Work responsibilities
+Find, report and fix bugs
+Collaborate with a team using version control
+Documentation writing
+Implement an effective CI/CD pipeline
+Evaluate various DevOps solutions and make recommendations
+Migrate and deploy large Drupal and Civicrm websites
+Monitor and maintain public and private dev, staging and production servers
+Monitor and maintain high volume mail servers
+Research performance optimization issues
+Assist devs and project managers to better serve our clients
 
 ** Work projects
 
+
+Sometimes I get assigned fun little coding projects,
+
+Redmine uploader - Using the Redmine API, pipe content to my redmine uploader script to update internal redmine issues
+Hosting stats - Gather monthly hosting statistics and post them to redmine
+Slow-site checker - Alert us if sites are loading "slow"
+Uptime checker - Alert us if sites are down
+Misc. ZFS dataset management and maintenance scripts
+Create a local docker-compose environment that imitates what we use in production for our dev team
+
 ** Side projects
 
-** Open source contributions
+Cooslug was founded in 2018, which consisted of only Zeb and I, but we made it awesome
+SystemE (using Emacs to init my operating system) made the top 10 on Hacker News for a day
+Spartan Emacs distro
+Themelios (a NixOS on ZFS installer)
+I'm interested in creating a relatively decentralized, secure and private communication platform similar to https://riseup.net
 
-** Mentors (THANK YOU!)
+** Open source
+
+*** Kernel.org
+[PATCH] libcap 2.33 use sched_yield instead of pthread_yield
+Funtoo Linux Libvirt documentation
+Commits to the KISS Linux package manager
+Commits to the KISS Linux init scripts
+Commits to KISS Linux community packages
+Misc. Bug Reports
+
+
 ** Contact
+
+[fn:a] https://en.wikipedia.org/wiki/Unix_philosophy -- The Unix philosophy, originated by Ken Thompson, is a set of cultural norms and philosophical approaches to minimalist, modular software development.
+
+/---wikipedia/
+
+[fn:b] https://en.wikipedia.org/wiki/Do_it_yourself -- DIY ethic is the ethic of self-sufficiency through completing tasks without the aid of a paid expert.
+
+/---wikipedia/
+
+[fn:c] https://archive.org/stream/The_Conscience_of_a_Hacker/hackersmanifesto.txt -- Ah, to be an angsty teenager again.
+
+[fn:d] https://en.wikipedia.org/wiki/Don%27t_be_evil -- Google famously had a "Don't be evil" Code of Conduct.
+
+[fn:e] https://www.census.gov/library/stories/2021/03/homeschooling-on-the-rise-during-covid-19-pandemic.html -- once thought of as odd, it's now the new normal!
+
+[fn:f] https://stallman.org/articles/on-hacking.html -- Hacking isn't bad, it's fun.
+
+[fn:g] https://en.wikipedia.org/wiki/Edward_Snowden -- Snowden, a real American hero.
+
+[fn:h] https://www.youtube.com/watch?v=SsoOG6ZeyUI -- Silicon Valley features Vim vs. Emacs and Spaces vs. Tabs

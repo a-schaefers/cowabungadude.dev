@@ -1,6 +1,9 @@
-#+TITLE: Example
+#+TITLE: Portfolio
+#+AUTHOR: Adam Schaefers
+#+EMAIL: schaefers@riseup.net
 
 * Basics
+[[./assets/images/tmnt-donatello.gif]]
 
 You can make words *bold*, /italic/, _underlined_, =code= and
 ~verbatim~, and, if you must, +strike-through+. Text in the code and
