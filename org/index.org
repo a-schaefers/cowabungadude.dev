@@ -10,7 +10,7 @@ This page is an [[https://www.gnu.org/software/emacs/][Emacs]] [[https://orgmode
 
 Here's me, just married 9/19/2020 A.D. --- during the apocalypse
 
-** In the beginning...
+** in the beginning...
 
 [[./assets/images/220px-Ibm_px_xt_color.jpg]]
 
@@ -24,7 +24,7 @@ I learned DOS commands and batch scripts early on in this way, before GUI's were
 
 I was running my own WAMP stacks and messing around with frameworks like "Php Nuke", "PhpBB" and exploring Geocities in Junior High. This was all mostly to make cool websites for my video game "clans."
 
-** DIY ethics and Unix philosophy
+** diy ethics and unix philosophy
 
 #+BEGIN_QUOTE
 ~au·to·di·dact: a self-taught person~
@@ -40,7 +40,7 @@ My father taught me that if you want something done right, then you need to do i
 This comes in to play later on when I realized out that I could learn anything I wanted on the internet--
 that the original hacker spirit is the Unix Philosophy [fn:a] with DIY ethos. [fn:b]
 
-** Social Engineering: From hacking people to hacking machines (career change)
+** social engineering: From hacking people to hacking machines
 
 #+BEGIN_QUOTE
 ~Social Engineering: (in the context of information security) the use of deception to manipulate individuals into divulging confidential or personal information that may be used for fraudulent purposes.~
@@ -65,7 +65,7 @@ These skills would be invaluable later while working in tech as a white hat.
 
 In this way, I have always been a "hacker."
 
-** Hacking: Not a bad thing-- a fun thing!
+** hacking: Not a bad thing-- a fun thing!
 
 What does hacking and work in the service industry have in common? Playful cleverness.
 In "Did he (/or she/) tip you 101, we quickly learn that to get tips, we have to have fun the guests.
@@ -83,7 +83,7 @@ That was not so hard, though I had to figure out where to put them so that I cou
 /--- Richard Stallman, Creator of Emacs and GNU coreutils, [[https://stallman.org/articles/on-hacking.html][On Hacking]]/ [fn:f]
 #+END_QUOTE
 
-** 1984 -- Security and Privacy
+** 1984 -- security and privacy
 
 One day I looked up from my hotel with my Bellman standing next to me, and we noticed the glint of a scope from a far-off hotel room flashing at us.
 
@@ -111,7 +111,7 @@ Admittedly, I used to [[https://www.reddit.com/r/unixporn/comments/3iy3wd/stupid
 
 [[./assets/images/gruv-sadkitty-clean.png]]
 
-** White Hats: Seriously, hackers aren't all bad
+** white hats: see, hackers aren't all bad
 
 #+BEGIN_QUOTE
 ~white hat: a person who hacks into a computer network in order to test or evaluate its security systems.~
@@ -131,7 +131,7 @@ Recruiter note: I like to think of myself as one of the good guys!
 
 Now Google famously had a [[https://en.wikipedia.org/wiki/Don%27t_be_evil]["Don't be evil"]] Code of Conduct. [fn:d] [[https://www.youtube.com/watch?v=OaTKaHKCAFg][And I would that they still did...]] I digress...
 
-** Want to join a tech cult?
+** want to join a tech cult?
 
 There's pizza...
 
@@ -146,7 +146,7 @@ Did you even google it? RTFM dude... [fn:i]
 There are even holy wars in tech, see Vim vs. Emacs and Tabs vs. Spaces, as brilliantly demonstrated in the T.V. sitcom Silicon Valley, [fn:h]
 
 #+BEGIN_EXPORT html
-<iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0"width="788.54" height="443" type="text/html" src="https://www.youtube.com/embed/SsoOG6ZeyUI?autoplay=0&fs=0&iv_load_policy=3&showinfo=0&rel=0&cc_load_policy=0&start=0&end=0&origin=http://youtubeembedcode.com"><div><small><a href="https://youtubeembedcode.com/en">youtubeembedcode.com/en/</a></small></div><div><small><a href="https://casinoutansvensklicensmedbrite.se/">https://casinoutansvensklicensmedbrite.se/</a></small></div></iframe>
+<iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0" width="560" height="340" type="text/html" src="https://www.youtube.com/embed/SsoOG6ZeyUI?autoplay=0&fs=0&iv_load_policy=3&showinfo=0&rel=0&cc_load_policy=0&start=0&end=0&origin=http://youtubeembedcode.com"></iframe>
 #+END_EXPORT
 
 I started [[https://github.com/cooslug][COOSLUG]] (**Coos** Bay, Oregon) **L** inux **U** ser **G** roup with my buddy [[https://github.com/bayprogrammer][Zeb DeOs]], the only other Hacker I knew in the area. He's a prominent full stack developer
@@ -157,7 +157,7 @@ In a world where things are so often out of our control, the fact that we can pr
 We met once a month or so and ordered pizza, with prolonged Emacs hacking sessions and candid discussions on the state of the industry, jobs and
 open source software.
 
-** The bootcamp years and Imposter Syndrome
+** the bootcamp years and imposter syndrome
 
 Imposter Syndrome is a funny thing. When you're feeling impostery you know that, "I'm good enough to be here and do this job."
 But you don't feel that way on the inside.
@@ -195,7 +195,7 @@ Programmers need to use the Terminal and know some bash, but when you're working
 going to have Bash, and your [[https://mywiki.wooledge.org/Bashism][bashisms]] are going to fail you. But shell is there, and [[https://en.wikipedia.org/wiki/POSIX][POSIX is still KING]]. Chris taught me
 POSIX shell-- it's a dying art and I'm glad to carry this tradition.
 
-** Open Source: a brave new world
+** open Source: a brave new world
 
 During this time I became a Linux distro developer and package maintainer.
 I volunteered on Funtoo Linux in the beginning, troubleshooting [[https://en.wikipedia.org/wiki/Daniel_Robbins_(computer_programmer)][Daniel Robbin's]] new distro, [[https://www.funtoo.org/Welcome][Funtoo Linux]], and writing
