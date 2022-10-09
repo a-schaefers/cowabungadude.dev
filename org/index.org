@@ -83,7 +83,7 @@ That was not so hard, though I had to figure out where to put them so that I cou
 /--- Richard Stallman, Creator of Emacs and GNU coreutils, [[https://stallman.org/articles/on-hacking.html][On Hacking]]/ [fn:f]
 #+END_QUOTE
 
-** Blade Runner IRL
+** 1984 -- Security and Privacy
 
 One day I looked up from my hotel with my Bellman standing next to me, and we noticed the glint of a scope from a far-off hotel room flashing at us.
 
@@ -133,26 +133,26 @@ Now Google famously had a [[https://en.wikipedia.org/wiki/Don%27t_be_evil]["Don'
 
 ** Want to join a tech cult?
 
+There's pizza...
+
+[[./assets/images/tmnt-donatello.gif]]
+
 Like any good cult, I found that tech has its own jargon and can give you sense of identity,
 
 #+BEGIN_QUOTE
 Did you even google it? RTFM dude... [fn:i]
 #+END_QUOTE
 
-There are even holy wars in tech, see Vim vs. Emacs, [fn:h]
+There are even holy wars in tech, see Vim vs. Emacs and Tabs vs. Spaces, as brilliantly demonstrated in the T.V. sitcom Silicon Valley, [fn:h]
 
 #+BEGIN_EXPORT html
-<p>
-<iframe style="position: absolute; top: 0px; left: 0px; width: 100%; height: 100%;" src="" data-src="https://odysee.com/$/embed/The-Magical-Money-Machin-Eustace-Mullins-Interview-480/e5078743e7ae9fc06dee2f82cb0d3c262f311f01" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; fullscreen"  width="100%" height="100%" frameborder="0" loading="lazy"></iframe>
-</p>
+<iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0"width="788.54" height="443" type="text/html" src="https://www.youtube.com/embed/SsoOG6ZeyUI?autoplay=0&fs=0&iv_load_policy=3&showinfo=0&rel=0&cc_load_policy=0&start=0&end=0&origin=http://youtubeembedcode.com"><div><small><a href="https://youtubeembedcode.com/en">youtubeembedcode.com/en/</a></small></div><div><small><a href="https://casinoutansvensklicensmedbrite.se/">https://casinoutansvensklicensmedbrite.se/</a></small></div></iframe>
 #+END_EXPORT
 
-I started COOSLUG (**Coos** Bay, Oregon) **L** inux **U** ser **G** roup with my buddy [[https://github.com/bayprogrammer][Zeb DeOs]], the only other Hacker I knew in the area. He's a prominent full stack developer
+I started [[https://github.com/cooslug][COOSLUG]] (**Coos** Bay, Oregon) **L** inux **U** ser **G** roup with my buddy [[https://github.com/bayprogrammer][Zeb DeOs]], the only other Hacker I knew in the area. He's a prominent full stack developer
 and I owe this guy everything career-wise.
 
 In a world where things are so often out of our control, the fact that we can program computers do exactly what we want is a strange comfort, and we shared this in common.
-
-https://github.com/cooslug
 
 We met once a month or so and ordered pizza, with prolonged Emacs hacking sessions and candid discussions on the state of the industry, jobs and
 open source software.
