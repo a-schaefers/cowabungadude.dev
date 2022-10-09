@@ -295,7 +295,7 @@ something that is some-what lacking in the Open Source world.
 <hr/>
 #+END_EXPORT
 
-* Blog
+* TODO Condense current writing / Cleanup, remove some lines (it's too long)
 
 * TODO Begin new ./blog/index.org section
 
@@ -303,7 +303,7 @@ something that is some-what lacking in the Open Source world.
 <hr/>
 #+END_EXPORT
 
-* TODO Certifications
+* TODO Certification journey
 
 * TODO Current reading list
 
