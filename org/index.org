@@ -2,7 +2,7 @@
 #+EMAIL: schaefers@riseup.net
 #+TITLE: Portfolio of Adam Schaefers
 
-* about
+* About
 
 [[./assets/images/wedding-small.jpg]]
 
@@ -14,7 +14,11 @@ I'm a Devops Engineer at [[https://www.immaculatastudios.com/][Immaculata Studio
 
 The opinions here are my own and do not represent my company.
 
-* in the beginning...
+#+BEGIN_EXPORT html
+<hr/>
+#+END_EXPORT
+
+* In the beginning...
 
 [[./assets/images/220px-Ibm_px_xt_color.jpg]]
 
@@ -26,7 +30,11 @@ I learned DOS commands and batch scripts early on in this way, before GUI's were
 
 I was running my own WAMP stacks and messing around with frameworks like "Php Nuke", "PhpBB" and exploring Geocities in Junior High. This was all mostly to make cool websites for my video game clans. [fn:k]
 
-* a self taught person -- diy ethics and unix philosophy
+#+BEGIN_EXPORT html
+<hr/>
+#+END_EXPORT
+
+* A self taught person -- DIY ethics and Unix philosophy
 
 [[./assets/images/Great_Books.jpg]]
 
@@ -44,7 +52,11 @@ My father taught me that if you want something done right, then you need to do i
 This comes in to play later on when I realized out that I could learn anything I wanted on the internet--
 that the original hacker spirit is the Unix Philosophy [fn:a] with DIY ethos. [fn:b]
 
-* social engineering 101
+#+BEGIN_EXPORT html
+<hr/>
+#+END_EXPORT
+
+* Social Engineering 101
 
 [[./assets/images/waikiki.jpg]]
 
@@ -63,7 +75,11 @@ These skills would be invaluable later while working in tech as a white hat.
 
 In this way, I have always been a "hacker."
 
-* hacking: Not a bad thing-- a fun thing!
+#+BEGIN_EXPORT html
+<hr/>
+#+END_EXPORT
+
+* Hacking: not a bad thing
 
 [[./assets/images/Panda-Fork-Chopsticks-01.jpg]]
 
@@ -91,7 +107,11 @@ That was not so hard, though I had to figure out where to put them so that I cou
 /--- Richard Stallman, Creator of Emacs and GNU coreutils, [[https://stallman.org/articles/on-hacking.html][On Hacking]]/ [fn:f]
 #+END_QUOTE
 
-* 1984 -- security and privacy
+#+BEGIN_EXPORT html
+<hr/>
+#+END_EXPORT
+
+* Security and Privacy
 
 [[./assets/images/1984.jpg]]
 
@@ -121,7 +141,11 @@ Admittedly, I used to [[https://www.reddit.com/r/unixporn/comments/3iy3wd/stupid
 
 # [[./assets/images/gruv-sadkitty-clean.png]]
 
-* want to join a tech cult? there's pizza...
+#+BEGIN_EXPORT html
+<hr/>
+#+END_EXPORT
+
+* Want to join a tech cult? There's pizza...
 
 [[./assets/images/tmnt-donatello.gif]]
 
@@ -141,7 +165,11 @@ In a world where things are so often out of our control, the fact that we can pr
 We met once a month or so and ordered pizza, with prolonged Emacs hacking sessions and candid discussions on the state of the industry, jobs and
 open source software.
 
-* the self-imposed bootcamp years -- learning to code
+#+BEGIN_EXPORT html
+<hr/>
+#+END_EXPORT
+
+* The self-imposed bootcamp years -- Learning to code
 
 [[./assets/images/Linus-Torvalds-quote-about-talking-2a9797.jpg]]
 
@@ -179,17 +207,21 @@ Better yet, as we all love good one-liner, ~:(){ :|:& };:~ Now put that in your 
 Programmers need to use the Terminal and know some Bash, but when you're working on an embedded system with limited disk space, you're probably not
 going to have Bash, and your [[https://mywiki.wooledge.org/Bashism][bashisms]] are going to fail you. But shell is there, and [[https://en.wikipedia.org/wiki/POSIX][POSIX is still KING]].
 
-* free and open source software experience
+#+BEGIN_EXPORT html
+<hr/>
+#+END_EXPORT
+
+* Free and Open Source Software Experience
 
 [[./assets/images/Free_and_open-source_software_logo_(2009).svg.png]]
 
-** documentation writing at funtoo
+** Documentation writing at Funtoo
 During this time I became a Linux distro developer and package maintainer.
 I volunteered on Funtoo Linux in the beginning, troubleshooting [[https://en.wikipedia.org/wiki/Daniel_Robbins_(computer_programmer)][Daniel Robbin's]] new distro, [[https://www.funtoo.org/Welcome][Funtoo Linux]], and writing
 technical documentation like this [[https://www.funtoo.org/Libvirt][Libvirt wiki page.]] Drobbins is the creator of [[https://www.gentoo.org/][Gentoo Linux]]-- you may have heard of it.
 
 
-** creating a nixos installer
+** Creating a NixOS installer
 I went on a brief stint with [[https://nixos.org/][NixOS]], where with the oversight of [[https://github.com/dustinlacewell][Dustin Lacewell aka ldlework,]] (my only Silicon Valley friend in tech),
 I built my own [[https://github.com/a-schaefers/themelios][zfs-on-root installer called Themelios]] which still enjoys some usage to this day.
 NixOS is interesting, I'll just say that-- and I respect the work they're doing, along with [[https://guix.gnu.org/en/download/][Guix]], but I've come to prefer
@@ -197,7 +229,7 @@ a simpler approach that is [[https://sta.li/][Stali Linux]] and [[https://github
 resolve the accompanying dependency hell issues in the [[https://edolstra.github.io/pubs/nspfssd-lisa2004-final.pdf][nix whitepapers,]] I tend to prefer instead the simpler solution of static linking,
 as disk space is no longer expensive.
 
-** becoming a linux distro dev and package maintainer
+** Becoming a Linux distro dev and package maintainer
 After that I distro hopped on over to [[https://kisslinux.org/][KISS (Keep it simple, stupid) Linux]] where I worked with [[https://github.com/dylanaraps][Dylan Araps]], author of [[https://github.com/dylanaraps/neofetch][Neofetch]]. This distro is amazing,
 and only uses some odd 30 Megabytes of RAM.
 Dylan became another one of my all-time great mentors. I am the [[https://github.com/dylanaraps/community/graphs/contributors][number two all-time committer]] on the classic community repo,
@@ -206,11 +238,11 @@ at [[https://kernel.org/][Kernel.org]]. I also did some work on the KISS init sc
 I'll never forget the day I left the project, and [[https://github.com/dylanaraps/community/issues/1165][released my packages that I was maintaining back to the KISS community.]] I made that
 decision as I was nearing getting married in 2020, and I was also working in a paid capacity.
 
-** writing my own init scripts
+** Writing my own init scripts
 Around this time also, I wrote my own Linux init scripts using the Emacs Lisp programming language, dubbed [[https://github.com/a-schaefers/systemE]["SystemE"]] by a friend on IRC (trolling systemd) and I hit
 the [[https://news.ycombinator.com/item?id=22120510][Hacker News Top 10]] for a day, and I was pretty jazzed about that, but it was just a joke. Playful and clever, maybe? :)
 
-** creating my own emacs distro and more
+** Creating my own Emacs distro and more
 During this phase I really felt like I had graduated. Tools like ~ssh~, ~gpg~, ~find~, ~grep~, ~git~, ~patch~ and ~diff~ would now be second nature.
 I built my own [[https://github.com/a-schaefers/spartan-emacs][Emacs framework called "Spartan Emacs"]]. I knew POSIX shell and Bash,
 Emacs Lisp, Common Lisp; some C, Ruby and Python. I was finally a software developer and it was time for a job.
@@ -220,7 +252,11 @@ Beyond this, I learned a lot about ~PATH~ and ~ENVIRONMENT~ in Linux, and that [
 
 Open source software experience is the best and it makes me who I am. This experience, to this day, is more valuable to me than anything I have ever done in paid capacity.
 
-* devops consulting 2020 -- 2021 (remote worker extraordinaire)
+#+BEGIN_EXPORT html
+<hr/>
+#+END_EXPORT
+
+* Devops consulting 2020 -- 2021 (Remote worker extraordinaire)
 
 [[./assets/images/ET-blogpost-remoteworker-May15.png]]
 
@@ -244,7 +280,11 @@ My primary respnsibilties were as follows:
 It was here where I learned the ability to utilize Redmine effectively and how to communicate professionally with my peers,
 something that is some-what lacking in the Open Source world.
 
-* devops at immaculata 2021 -- present (automation life)
+#+BEGIN_EXPORT html
+<hr/>
+#+END_EXPORT
+
+* Devops at Immaculata Studios 2021 -- Present (Automation life)
 
 [[./assets/images/terra_aws.png]]
 
@@ -252,6 +292,10 @@ something that is some-what lacking in the Open Source world.
 
 # * Blog
 # [[file:blog/][Journey in Computing]]
+
+#+BEGIN_EXPORT html
+<hr/>
+#+END_EXPORT
 
 * Contact
 
