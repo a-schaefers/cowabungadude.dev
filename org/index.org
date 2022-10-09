@@ -30,7 +30,7 @@ I was running my own WAMP stacks and messing around with frameworks like "Php Nu
 
 * diy ethics and unix philosophy
 
-[[./assets/images/unix.jpg]]
+[[./assets/images/Great_Books.jpg]]
 
 #+BEGIN_QUOTE
 ~au·to·di·dact: a self-taught person~
@@ -48,7 +48,7 @@ that the original hacker spirit is the Unix Philosophy [fn:a] with DIY ethos. [f
 
 * social engineering: from hacking people to hacking machines
 
-[[./assets/images/MrR.png]]
+[[./assets/images/waikiki.jpg]]
 
 #+BEGIN_QUOTE
 ~Social Engineering: (in the context of information security) the use of deception to manipulate individuals into divulging confidential or personal information that may be used for fraudulent purposes.~
@@ -62,8 +62,6 @@ I traveled and read a lot of books on Philosophy, History, Theology and English 
 I landed in Honolulu, Hawaii.
 There I worked as a Valet Driver, Bellman, Doorman in some of the nicest Hotels and Restaurants on the Waikiki strip.
 
-[[./assets/images/waikiki.jpg]]
-
 A few years back I found a random photograph of myself (see above) while googling one of old my hotels.
 
 While not malevolent-- little did I know at the time-- that I was receiving a free education in social engineering.
@@ -75,7 +73,7 @@ In this way, I have always been a "hacker."
 
 * hacking: Not a bad thing-- a fun thing!
 
-[[./assets/images/Linus-Torvalds-quote-about-talking-2a9797.jpg]]
+[[./assets/images/Panda-Fork-Chopsticks-01.jpg]]
 
 What does hacking and work in the service industry have in common? Playful cleverness.
 In "Did he (/or she/) tip you 101, we quickly learn that to get tips, we have to have fun the guests.
@@ -168,6 +166,8 @@ We met once a month or so and ordered pizza, with prolonged Emacs hacking sessio
 open source software.
 
 * the bootcamp years and imposter syndrome
+
+[[./assets/images/If-you-dream-it--you-can-do-it--1-.png]]
 
 Imposter Syndrome is a funny thing. When you're feeling impostery you know that, /"I'm good enough to be here and do this job."/
 -- but you don't feel that way on the inside.
