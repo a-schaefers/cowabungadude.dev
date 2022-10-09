@@ -2,7 +2,7 @@
 #+EMAIL: schaefers@riseup.net
 #+TITLE: Portfolio of Adam Schaefers
 
-* the art of hacking
+** the art of hacking
 
 This page is an [[https://www.gnu.org/software/emacs/][Emacs]] [[https://orgmode.org/][org-mode document]] and tells the story of my journey in to professional computing.
 
@@ -161,7 +161,7 @@ open source software.
 
 Imposter Syndrome is a funny thing. When you're feeling impostery you know that, "I'm good enough to be here and do this job."
 But you don't feel that way on the inside.
-I felt like I had something to prove, and that I needed to be the best before I entered the field full-time in a paid atmosphere.
+I felt like I had something to prove, and that I needed to be the best before I entered the field full-time in a paid gig.
 I suspect it stems from the ever-changing, ever-learning nature of tech.
 I recommend you accept that and forget about it. There's nothing wrong with you dude, you're fine!
 I spent several years in this hell, I built the place! I don't regret it, but I also don't recommend it.
@@ -185,11 +185,7 @@ evil () {
 evil
 #+END_SRC
 
-Better yet, as we all love good one-liner,
-
-#+BEGIN_SRC sh
-:(){ :|:& };:
-#+END_SRC
+Better yet, as we all love good one-liner, ~:(){ :|:& };:~
 
 Put that in your Terminal and smoke it!
 
@@ -218,7 +214,7 @@ Dylan became another one of my all-time great mentors. I am the [[https://github
 as I was maintaining the [[https://suckless.org/][suckless]] and [[https://www.gnu.org/home.en.html][GNU stacks]]. One time I fixed a bug in a package written in C, and submitted a patch [[https://bugzilla.kernel.org/show_bug.cgi?id=206741][where it officially was merged]]
 at [[https://kernel.org/][Kernel.org]]. I also did some work on the KISS init scripts and a lot of testing for the package manager.
 I'll never forget the day I left the project, and [[https://github.com/dylanaraps/community/issues/1165][released my packages that I was maintaining back to the KISS community.]] I made that
-decision as I was nearing getting married in 2020, and I was also finally working in a paid capacity.
+decision as I was nearing getting married in 2020, and I was also working in a paid capacity.
 
 During this phase I really felt like I had graduated. Tools like ~find~, ~grep~, ~git~, ~patch~ and ~diff~ would now be second nature. I built my own [[https://github.com/a-schaefers/spartan-emacs][Emacs framework called "Spartan Emacs"]]. I knew POSIX shell and Bash,
 Lisp, some C, Ruby and Python. I was finally a software developer and it was time for a job.
