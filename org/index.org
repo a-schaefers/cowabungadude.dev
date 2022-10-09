@@ -399,10 +399,10 @@ lg==
 [fn:h] https://www.youtube.com/watch?v=SsoOG6ZeyUI -- Silicon Valley features Vim vs. Emacs and Spaces vs. Tabs
 
 #+BEGIN_EXPORT html
-<iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0" width="560" height="340" type="text/html" src="https://www.youtube.com/embed/SsoOG6ZeyUI?autoplay=0&fs=0&iv_load_policy=3&showinfo=0&rel=0&cc_load_policy=0&start=0&end=0&origin=http://youtubeembedcode.com"></iframe>
+<div style="padding-bottom: 56.25%; position: relative;"><iframe style="position: absolute; top: 0px; left: 0px; width: 100%; height: 100%;" src="https://www.youtube.com/embed/SsoOG6ZeyUI?autoplay=0&fs=0&iv_load_policy=3&showinfo=0&rel=0&cc_load_policy=0&start=0&end=0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; fullscreen"  width="100%" height="100%" frameborder="0" loading="lazy"></iframe></div>
 #+END_EXPORT
 
-[fn:i] https://en.wikipedia.org/wiki/RTFM -- RTFM is an initialism and internet slang for the expression "read the fucking manual" – typically used to reply to a basic question where the answer is easily found in the documentation, user guide, owner's manual, man page, online help, internet forum, software documentation or FAQ.
+[fn:i] https://en.wikipedia.org/wiki/RTFM
 
 [fn:j] pleb -- an ordinary person, especially one from the lower social classes.
 /---google/
