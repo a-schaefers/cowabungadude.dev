@@ -167,7 +167,7 @@ FreeBSD, the same-- and I actually read [[https://docs.freebsd.org/en/books/hand
 I learned the ins-and-outs of [[https://aws.amazon.com/][AWS]]: ~Route53~, ~S3~, ~EC2~, ~Cloudfront~ and more.
 I settled on a text editor, ~emacs~ and started to form my own opinions on things.
 
-I had another mentor during this period of my life, (this was back when ~systemd~ was still a debate), [[https://github.com/TemptorSent][Chris Giorgi]] of #gentoo / #funtoo on Freenode, he was an [[https://www.amazon.com/AWK-Programming-Language-Alfred-Aho/dp/020107981X][awk-programmer extraordinaire]].
+I had another mentor during this period of my life, (this was back when ~systemd~ was still a debate), [[https://github.com/TemptorSent][Chris Giorgi]] of #gentoo / #funtoo on Freenode, he was an excellent [[https://www.amazon.com/AWK-Programming-Language-Alfred-Aho/dp/020107981X][awk-programmer]].
 He taught me how to use [[https://zfsonlinux.org/][ZFS]]. He taught me that there are shell scripts and then there are /shell scripts/.
 Finally, somebody more paranoid than I was, he sanity checked and validated /every/ input variable.
 
