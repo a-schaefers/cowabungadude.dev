@@ -232,7 +232,7 @@ Open source software experience is the best and it makes me who I am. This exper
 
 In 2020 I ran my own Devops consulting business, mainly maintaining servers and providing traditional system administration services for large non profits.
 
-I collaborated with many other developers during this time. We used Mattermost, Redmine, Google Calendar, and various video software communication platforms for communication means.
+I collaborated with many other developers during this time. We used Mattermost (slack clone), Redmine, Google Calendar, and various video software communication platforms for communication means.
 
 My primary respnsibilties were as follows:
 
