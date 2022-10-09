@@ -226,7 +226,7 @@ Beyond this, I learned a lot about ~PATH~ and ~ENVIRONMENT~ in Linux, and that [
 
 Open source software experience is the best and it makes me who I am. This experience, to this day, is more valuable to me than anything I have ever done in paid capacity.
 
-* Devops Consulting 2020 -- 2021 (remote worker extraordinaire)
+* devops consulting 2020 -- 2021 (remote worker extraordinaire)
 
 [[./assets/images/ET-blogpost-remoteworker-May15.png]]
 
@@ -250,7 +250,7 @@ My primary respnsibilties were as follows:
 It was here where I learned the ability to utilize Redmine effectively and how to communicate professionally with my peers,
 something that is some-what lacking in the Open Source world.
 
-* Devops at Immaculata Studios 2021 -- Present (automation life)
+* devops at immaculata 2021 -- present (automation life)
 
 [[./assets/images/terra_aws.png]]
 
