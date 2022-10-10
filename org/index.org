@@ -131,7 +131,7 @@ I learned the ins-and-outs of [[https://aws.amazon.com/][AWS]]: ~Route53~, ~S3~,
 I settled on a text editor, ~emacs~ and started to form my own opinions on things.
 
 I had another mentor during this period of my life, (this was back when ~systemd~ was still a debate), [[https://github.com/TemptorSent][Chris Giorgi]] of #gentoo / #funtoo on Freenode, he was an excellent [[https://www.amazon.com/AWK-Programming-Language-Alfred-Aho/dp/020107981X][awk-programmer]].
-He taught me how to use [[https://zfsonlinux.org/][ZFS]]. He taught me that there are shell scripts and then there are /shell scripts/.
+He taught me that there are shell scripts and then there are /shell scripts/.
 
 Here's a classic [[https://en.wikipedia.org/wiki/Fork_bomb][fork bomb]],
 
@@ -148,17 +148,17 @@ Better yet, as we all love good one-liner, ~:(){ :|:& };:~ Now put that in your 
 <hr/>
 #+END_EXPORT
 
-* Free and Open Source Software Experience -- 2017 - 2020
+** Free and Open Source Software Experience -- 2017 - 2020
 
 [[./assets/images/Free_and_open-source_software_logo_(2009).svg.png]]
 
-** Documentation writing at Funtoo
+*** Documentation writing at Funtoo
 During this time I became a Linux distro developer and package maintainer.
 I volunteered on Funtoo Linux in the beginning, troubleshooting [[https://en.wikipedia.org/wiki/Daniel_Robbins_(computer_programmer)][Daniel Robbin's]] new distro, [[https://www.funtoo.org/Welcome][Funtoo Linux]], and writing
 technical documentation like this [[https://www.funtoo.org/Libvirt][Libvirt wiki page.]] Drobbins is the creator of [[https://www.gentoo.org/][Gentoo Linux]]-- you may have heard of it.
 
 
-** Creating a NixOS installer
+*** Creating a NixOS installer
 I went on a brief stint with [[https://nixos.org/][NixOS]], where with the oversight of [[https://github.com/dustinlacewell][Dustin Lacewell aka ldlework,]] (my only Silicon Valley friend in tech),
 I built my own [[https://github.com/a-schaefers/themelios][zfs-on-root installer called Themelios]] which still enjoys some usage to this day.
 NixOS is interesting, I'll just say that-- and I respect the work they're doing, along with [[https://guix.gnu.org/en/download/][Guix]], but I've come to prefer
@@ -166,7 +166,7 @@ a simpler approach that is [[https://sta.li/][Stali Linux]] and [[https://github
 resolve the accompanying dependency hell issues in the [[https://edolstra.github.io/pubs/nspfssd-lisa2004-final.pdf][nix whitepapers,]] I tend to prefer instead the simpler solution of static linking,
 as disk space is no longer expensive.
 
-** Becoming a Linux distro dev and package maintainer
+*** Becoming a Linux distro dev and package maintainer
 After that I distro hopped on over to [[https://kisslinux.org/][KISS (Keep it simple, stupid) Linux]] where I worked with [[https://github.com/dylanaraps][Dylan Araps]], author of [[https://github.com/dylanaraps/neofetch][Neofetch]]. This distro is amazing,
 and only uses some odd 30 Megabytes of RAM.
 Dylan became another one of my all-time great mentors. I am the [[https://github.com/dylanaraps/community/graphs/contributors][number two all-time committer]] on the classic community repo,
@@ -175,11 +175,11 @@ at [[https://kernel.org/][Kernel.org]]. I also did some work on the KISS init sc
 I'll never forget the day I left the project, and [[https://github.com/dylanaraps/community/issues/1165][released my packages that I was maintaining back to the KISS community.]] I made that
 decision as I was nearing getting married in 2020, and I was also working in a paid capacity.
 
-** Writing my own init scripts
+*** Writing my own init scripts
 Around this time also, I wrote my own Linux init scripts using the Emacs Lisp programming language, dubbed [[https://github.com/a-schaefers/systemE]["SystemE"]] by a friend on IRC (trolling systemd) and I hit
 the [[https://news.ycombinator.com/item?id=22120510][Hacker News Top 10]] for a day, and I was pretty jazzed about that.
 
-** Creating my own Emacs distro and more
+*** Creating my own Emacs distro and more
 During this phase I really felt like I had graduated. Tools like ~ssh~, ~gpg~, ~find~, ~grep~, ~git~, ~patch~ and ~diff~ would now be second nature.
 I built my own [[https://github.com/a-schaefers/spartan-emacs][Emacs framework called "Spartan Emacs"]]. I knew POSIX shell and Bash,
 Emacs Lisp, Common Lisp; some C, Ruby and Python. I was finally a software developer and it was time for a job.
@@ -238,7 +238,7 @@ The AWS Certified Devops Engineer certificate will be next.
 <hr/>
 #+END_EXPORT
 
-* Back to college 2021 -- Present (Part-time work on my degree...)
+* Back to college 2022 -- Present (Part-time work on my degree...)
 [[./assets/images/uopeople.png]]
 I've always found University to be cost prohibitive, opting not to rack up debt and learn for free on the internet instead.
 
