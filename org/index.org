@@ -33,7 +33,7 @@ The opinions here are my own and do not represent my company.
 
 [[./assets/images/220px-Ibm_px_xt_color.jpg]]
 
-My first computer was an XT, pre-loaded by dad with a boat load of cracked games, such as [[https://www.youtube.com/watch?v=QT6bVDxOs3k]["Hopper."]]
+My first computer was an XT, pre-loaded by dad with a boat load of games, such as [[https://www.youtube.com/watch?v=QT6bVDxOs3k]["Hopper."]]
 I learned DOS commands and batch scripts early on in this way, before GUI's were much of a thing.
 
 I was running my own WAMP stacks and messing around with frameworks like "Php Nuke", "PhpBB" and exploring Geocities in Junior High. This was all mostly to make cool websites for my video game clans. [fn:k]
