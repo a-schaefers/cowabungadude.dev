@@ -246,7 +246,7 @@ I've always found University to be cost prohibitive, opting not to rack up debt 
 
 However, I'm now enrolled in
 https://www.uopeople.edu/programs/online-bachelors/computer-science/
-where I do hope to finally get the CS piece of paper that I've always wanted.
+where I do hope to finally get the CS degree that I've always wanted.
 
 #+BEGIN_EXPORT html
 <hr/>
