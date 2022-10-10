@@ -25,7 +25,7 @@ This page tells the story of my journey in professional computing.
 
 I'm a Devops Engineer at [[https://www.immaculatastudios.com/][Immaculata Studios]] where I spend most days automating the AWS world using Docker microservices and Terraform to help my team at scale.
 
-The views here are my own and do necessarily reflect my company's views.
+The views here are my own and do not necessarily reflect my company's views.
 
 #+BEGIN_EXPORT html
 <hr/>
