@@ -177,7 +177,7 @@ decision as I was nearing getting married in 2020, and I was also working in a p
 
 ** Writing my own init scripts
 Around this time also, I wrote my own Linux init scripts using the Emacs Lisp programming language, dubbed [[https://github.com/a-schaefers/systemE]["SystemE"]] by a friend on IRC (trolling systemd) and I hit
-the [[https://news.ycombinator.com/item?id=22120510][Hacker News Top 10]] for a day, and I was pretty jazzed about that, but it was just a joke. Playful and clever, maybe? :)
+the [[https://news.ycombinator.com/item?id=22120510][Hacker News Top 10]] for a day, and I was pretty jazzed about that.
 
 ** Creating my own Emacs distro and more
 During this phase I really felt like I had graduated. Tools like ~ssh~, ~gpg~, ~find~, ~grep~, ~git~, ~patch~ and ~diff~ would now be second nature.
