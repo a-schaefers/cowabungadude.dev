@@ -4,17 +4,19 @@
 
 #+BEGIN_EXPORT html
 <a href="./assets/Adam_Schaefers_Resume.pdf"><img src="./assets/images/cv.png"></a>
+<hr/>
 #+END_EXPORT
 
 * About
 
-# [[./assets/Adam_Schaefers_.pdf][[Resume]
-
 #+BEGIN_EXPORT html
 <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="adam-schaefers" data-version="v1"></div>
+
 <a href="https://twitter.com/adam_schaefers?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @adam_schaefers</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<a href="https://github.com/a-schaefers"><img src=./assets/images/gh.png></a>
+<hr/>
 #+END_EXPORT
 
 # [[./assets/images/wedding-small.jpg]]
