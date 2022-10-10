@@ -4,7 +4,11 @@
 
 * About
 
-[[./assets/images/wedding-small.jpg]]
+#+BEGIN_EXPORT html
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="adam-schaefers" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/adam-schaefers?trk=profile-badge">Adam Schaefers</a></div>
+#+END_EXPORT
+
+# [[./assets/images/wedding-small.jpg]]
 
 This page tells the story of my journey in to professional computing.
 
@@ -23,9 +27,6 @@ The opinions here are my own and do not represent my company.
 [[./assets/images/220px-Ibm_px_xt_color.jpg]]
 
 My first computer was an XT, pre-loaded by dad with a boat load of cracked games, such as [[https://www.youtube.com/watch?v=QT6bVDxOs3k]["Hopper."]]
-
-This box was the mystery of my childhood-- I knew it had potential to do really cool things, if only I could connect to the internet.
-There was always some odd file that I would find on the system and then I would try to figure out if it was a program that I could execute.
 I learned DOS commands and batch scripts early on in this way, before GUI's were much of a thing.
 
 I was running my own WAMP stacks and messing around with frameworks like "Php Nuke", "PhpBB" and exploring Geocities in Junior High. This was all mostly to make cool websites for my video game clans. [fn:k]
@@ -91,7 +92,7 @@ In this way, I have always been a "hacker."
 /---google/
 #+END_QUOTE
 
-Recruiter note: I'm a blue-team, white hat guy -- I like to think of myself as one of the good guys! [fn:d]
+Recruiter note: I'm a blue-team, white hat guy -- I like to think of myself as one of the good guys!
 
 What does hacking and work in the service industry have in common? Playful cleverness.
 In "Did he (/or she/) tip you 101, we quickly learn that to get tips, we have to have fun the guests.
@@ -147,15 +148,13 @@ Admittedly, I used to [[https://www.reddit.com/r/unixporn/comments/3iy3wd/stupid
 
 * Want to join a tech cult? There's pizza...
 
-[[./assets/images/tmnt-donatello.gif]]
-
-Like any good cult, I found that tech has its own jargon and can give you sense of identity,
+[[./assets/images/tmnt-donatello_small.gif]]
 
 #+BEGIN_QUOTE
 Did you even google it? RTFM dude... [fn:i]
 #+END_QUOTE
 
-There are even holy wars in tech, see Vim vs. Emacs and Tabs vs. Spaces, as brilliantly demonstrated in the T.V. sitcom Silicon Valley, [fn:h]
+Like any good cult, I found that tech has its own jargon and can give you sense of identity. There are even holy wars. (See Vim vs. Emacs and Tabs vs. Spaces, as brilliantly demonstrated in the T.V. sitcom Silicon Valley. [fn:h])
 
 I started [[https://github.com/cooslug][COOSLUG]] (*Coos* Bay, Oregon) *L* inux *U* ser *G* roup with my buddy [[https://github.com/bayprogrammer][Zeb DeOs]], the only other Hacker I knew in the area. He's a prominent full stack developer
 and I owe this guy everything career-wise.
@@ -284,24 +283,22 @@ something that is some-what lacking in the Open Source world.
 <hr/>
 #+END_EXPORT
 
-* Devops at Immaculata Studios 2021 -- Present (Automation life)
+* TODO Devops at Immaculata Studios 2021 -- Present (Automation life)
 
 [[./assets/images/terra_aws.png]]
-
-* TODO Finish IMS Section
-
 
 #+BEGIN_EXPORT html
 <hr/>
 #+END_EXPORT
-
-* TODO Condense current writing / Cleanup, remove some lines (it's too long)
 
 * TODO Begin new ./blog/index.org section
 
 #+BEGIN_EXPORT html
 <hr/>
 #+END_EXPORT
+
+
+* TODO Condense current writing / Cleanup, remove some lines (it's too long)
 
 * TODO Certification journey
 
@@ -311,11 +308,13 @@ something that is some-what lacking in the Open Source world.
 + Getting Started with SQL
 + SQL Practice Problems
 
-* TODO Links to socials
+* TODO Socials
 
-* TODO Add Resume
+* TODO Resume
 
-
+#+BEGIN_EXPORT html
+<hr/>
+#+END_EXPORT
 
 * Contact
 
@@ -387,8 +386,6 @@ lg==
 /---wikipedia/
 
 [fn:c] https://archive.org/stream/The_Conscience_of_a_Hacker/hackersmanifesto.txt -- Ah, to be an angsty teenager again.
-
-[fn:d] https://en.wikipedia.org/wiki/Don%27t_be_evil -- Google famously had a "Don't be evil" Code of Conduct. [[https://en.wikipedia.org/wiki/Don%27t_be_evil]["And I would that they still did...]] I digress...
 
 [fn:e] https://www.census.gov/library/stories/2021/03/homeschooling-on-the-rise-during-covid-19-pandemic.html -- once thought of as odd, it's now the new normal!
 
