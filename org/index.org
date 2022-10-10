@@ -25,7 +25,7 @@ This page tells the story of my journey in professional computing.
 
 I'm a Devops Engineer at [[https://www.immaculatastudios.com/][Immaculata Studios]] where I spend most days automating the AWS world using Docker microservices and Terraform to help my team at scale.
 
-The opinions here are my own and do not represent my company.
+The views here are my own and do necessarily reflect my company's views.
 
 #+BEGIN_EXPORT html
 <hr/>
@@ -117,7 +117,7 @@ We met once a month or so and ordered pizza, with prolonged Emacs hacking sessio
 <hr/>
 #+END_EXPORT
 
-* The self-imposed bootcamp years -- 2017 - 2020
+* The self-imposed bootcamp years, 2017 - 2020
 
 [[./assets/images/Linus-Torvalds-quote-about-talking-2a9797.jpg]]
 
@@ -150,7 +150,7 @@ Better yet, as we all love good one-liner, ~:(){ :|:& };:~ Now put that in your 
 <hr/>
 #+END_EXPORT
 
-** Free and Open Source Software Experience -- 2017 - 2020
+** Free and Open Source Software Experience
 
 [[./assets/images/Free_and_open-source_software_logo_(2009).svg.png]]
 
@@ -195,7 +195,7 @@ Open source software experience is the best and it makes me who I am. This exper
 <hr/>
 #+END_EXPORT
 
-* Devops consulting 2020 -- 2021 (Remote worker extraordinaire)
+* Devops consulting, 2020 -- 2021 (Remote worker extraordinaire)
 
 [[./assets/images/ET-blogpost-remoteworker-May15.png]]
 
@@ -223,7 +223,7 @@ something that is some-what lacking in the Open Source world.
 <hr/>
 #+END_EXPORT
 
-* Senior Devops at Immaculata Studios 2021 -- Present (Automation life)
+* Senior Devops at Immaculata Studios, 2021 -- Present (Automation life)
 [[./assets/images/terra_aws.png]]
 
 
@@ -240,7 +240,7 @@ The AWS Certified Devops Engineer certificate will be next.
 <hr/>
 #+END_EXPORT
 
-* Back to college 2022 -- Present (Part-time work on my degree...)
+* Back to college, 2022 -- Present (Part-time work on my degree...)
 [[./assets/images/uopeople.png]]
 I've always found University to be cost prohibitive, opting not to rack up debt and learn for free on the internet instead.
 
