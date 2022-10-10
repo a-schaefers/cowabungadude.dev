@@ -21,7 +21,7 @@
 
 # [[./assets/images/wedding-small.jpg]]
 
-This page tells the story of my journey in to professional computing.
+This page tells the story of my journey in professional computing.
 
 I'm a Devops Engineer at [[https://www.immaculatastudios.com/][Immaculata Studios]] where I spend most days automating the AWS world using Docker microservices and Terraform to help my team at scale.
 
