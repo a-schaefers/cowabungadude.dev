@@ -6,7 +6,6 @@
 <a href="./assets/Adam_Schaefers_Resume.pdf"><img src="./assets/images/cv.png"></a>
 <hr/>
 #+END_EXPORT
-
 * About
 
 #+BEGIN_EXPORT html
@@ -66,7 +65,7 @@ that the original hacker spirit is the Unix Philosophy [fn:a] with DIY ethos. [f
 <hr/>
 #+END_EXPORT
 
-* Security and Privacy piques my interest
+* Security and privacy piques my interest
 
 [[./assets/images/1984.jpg]]
 
@@ -195,7 +194,7 @@ Open source software experience is the best and it makes me who I am. This exper
 <hr/>
 #+END_EXPORT
 
-* Devops consulting, 2020 -- 2021 (Remote worker extraordinaire)
+* DevOps consulting, 2020 -- 2021
 
 [[./assets/images/ET-blogpost-remoteworker-May15.png]]
 
@@ -223,14 +222,13 @@ something that is some-what lacking in the Open Source world.
 <hr/>
 #+END_EXPORT
 
-* Senior Devops at Immaculata Studios, 2021 -- Present (Automation life)
+* DevOps at Immaculata Studios, 2021 -- Present
 [[./assets/images/terra_aws.png]]
 
 
 About a year ago I joined up with [[https://www.immaculatastudios.com/][Immaculata Studios]] as their Senior DevOps Engineer.
 I'm here to scale the team and products primarily using Terraform with AWS infrastructure and Docker microservices.
 I can't say too much, but there's a lot cooking right now.
-In the future I hope to expand this site with various blogs regarding projects I'm working on.
 
 Recently, I obtained my Terraform Associate Certificate. It wasn't difficult to pass the exam, given how much I use Terraform on a daily basis.
 
@@ -240,7 +238,7 @@ The AWS Certified Devops Engineer certificate will be next.
 <hr/>
 #+END_EXPORT
 
-* Back to college, 2022 -- Present (Part-time work on my degree...)
+* Back to college, 2022 -- Present
 [[./assets/images/uopeople.png]]
 I've always found University to be cost prohibitive, opting not to rack up debt and learn for free on the internet instead.
 
