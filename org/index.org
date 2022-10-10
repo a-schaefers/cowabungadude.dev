@@ -5,14 +5,13 @@
 * About
 
 #+BEGIN_EXPORT html
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="adam-schaefers" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/adam-schaefers?trk=profile-badge">Adam Schaefers</a></div>
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="adam-schaefers" data-version="v1"></div>
 #+END_EXPORT
 
 # [[./assets/images/wedding-small.jpg]]
 
 This page tells the story of my journey in to professional computing.
-
-Here's me, just married 9/19/2020 A.D. --- during the apocalypse.
 
 I'm a Devops Engineer at [[https://www.immaculatastudios.com/][Immaculata Studios]] where I spend most days automating the AWS world using Docker microservices and Terraform to help my team at scale.
 
