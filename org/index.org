@@ -1,12 +1,20 @@
 #+AUTHOR: Adam Schaefers
 #+EMAIL: schaefers@riseup.net
-#+TITLE: Portfolio of Adam Schaefers
+#+TITLE: Adam Schaefers
+
+#+BEGIN_EXPORT html
+<a href="./assets/Adam_Schaefers_Resume.pdf"><img src="./assets/images/cv.png"></a>
+#+END_EXPORT
 
 * About
+
+# [[./assets/Adam_Schaefers_.pdf][[Resume]
 
 #+BEGIN_EXPORT html
 <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="adam-schaefers" data-version="v1"></div>
+<a href="https://twitter.com/adam_schaefers?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @adam_schaefers</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 #+END_EXPORT
 
 # [[./assets/images/wedding-small.jpg]]
@@ -56,86 +64,27 @@ that the original hacker spirit is the Unix Philosophy [fn:a] with DIY ethos. [f
 <hr/>
 #+END_EXPORT
 
-* Social Engineering 101
-
-[[./assets/images/waikiki.jpg]]
-
-I dropped out of college early on, not having a high regard for the system (see [[https://archive.org/stream/The_Conscience_of_a_Hacker/hackersmanifesto.txt]["Hacker's Manifesto"]]) [fn:c] at the time.
-I traveled and read a lot of books on Philosophy, History, Theology and English -- as any millennial should.
-
-I landed in Honolulu, Hawaii.
-There I worked as a Valet Driver, Bellman, Doorman in some of the nicest Hotels and Restaurants on the Waikiki strip.
-
-A few years back I found a random photograph of myself (see above) while googling one of old my hotels.
-
-While not malevolent-- little did I know at the time-- that I was receiving a free education in social engineering.
-The name of the game was called "Did he (/or she/) tip you?"
-Like any good flick on HBO Max, the illusion was wealth and the key was social discourse.
-These skills would be invaluable later while working in tech as a white hat.
-
-In this way, I have always been a "hacker."
-
-#+BEGIN_EXPORT html
-<hr/>
-#+END_EXPORT
-
-* Hacking: not a bad thing
-
-[[./assets/images/Panda-Fork-Chopsticks-01.jpg]]
-
-#+BEGIN_QUOTE
-~white hat: a person who hacks into a computer network in order to test or evaluate its security systems.~
-
-~black hat: a person who hacks into a computer network with malicious or criminal intent.~
-
-/---google/
-#+END_QUOTE
-
-Recruiter note: I'm a blue-team, white hat guy -- I like to think of myself as one of the good guys!
-
-What does hacking and work in the service industry have in common? Playful cleverness.
-In "Did he (/or she/) tip you 101, we quickly learn that to get tips, we have to have fun the guests.
-
-#+BEGIN_QUOTE
-I went to lunch with some GNU fans, and was sitting down to eat some tteokbokki (*), when a waitress set down six chopsticks right in front of me.
-It occurred to me that perhaps these were meant for three people, but it was more amusing to imagine that I was supposed to use all six.
-I did not know any way to do that, so I realized that if I could come up with a way, it would be a hack. I started thinking. After a few seconds I had an idea.
-
-First I used my left hand to put three chopsticks into my right hand.
-That was not so hard, though I had to figure out where to put them so that I could control them individually. Then I used my right hand to put the other three chopsticks into my left hand. That was hard, since I had to keep the three chopsticks already in my right hand from falling out. After a couple of tries I got it done.
-
-/--- Richard Stallman, Creator of Emacs and GNU coreutils, [[https://stallman.org/articles/on-hacking.html][On Hacking]]/ [fn:f]
-#+END_QUOTE
-
-#+BEGIN_EXPORT html
-<hr/>
-#+END_EXPORT
-
-* Security and Privacy
+* Security and Privacy peaks my interest
 
 [[./assets/images/1984.jpg]]
 
-One day I looked up from my hotel with my Bellman standing next to me, and we noticed the glint of a scope from a far-off hotel room flashing at us.
+It was around the time when Snowden[fn:g] was blowing the whistle on the government
+that I gained a renewed interest in tech.
+I always had a natural /aptitude/ for computing-- after all my first Linux distro was Ubuntu 8.04 Hardy Heron ~2008--
+but I was doing other things.
 
-Somebody was watching us. Nothing ever came of it, but we found it very odd at the time.
-
-Also around that time Snowden [fn:g] was revealing to the citizens of the United States that the government was illegally spying on all of us.
-
-Since I always had a natural /aptitude/ for computing-- after all my first Linux distro was Ubuntu 8.04 Hardy Heron ~2008--
-I found all this was very interesting to think about.
-When Snowden revealed that smartphones were backdoored by the NSA, among other things, it reignited something in me.
-
-Around this time I found renewed joy in computing, and the cypher-punk feels of Linux. In those days one would have found me growing out my neckbeard whilst reverse SSH tunneling 10 servers deep before connecting to the
+I rediscovered Linux and loved all of the cypher-punk feels.
+In those days one would have found me growing out my neckbeard whilst reverse SSH tunneling 10 servers deep before connecting to the
 TOR network (and every other privacy-centric network I could find.)
 I soon joined various IRC channels, where we would discuss merits of various Linux distros and open-source software for hours.
-It was just a hobby at first-- that is, privacy and security research-- I hadn't the slightest where this would all lead.
+It was just a hobby at first.
 
-I soon found myself moving back to Oregon, where I was born raised. I told my parents at the time, "There's something good here, I'm learning a lot.
-I will be doing this for a living soon enough, but there's a lot to learn first..."
-
-I started watching [[https://www.youtube.com/c/BryanLunduke/videos][The Lunduke Show]]. I went to /YouTube University/, catching every [[https://www.youtube.com/c/tutoriaLinux/videos][TutoriaLinux (Dave Cohen)]] episode I could --
-I sent him a thank you Email years later along the lines, "Hey, thanks for sharing your knowledge and helping me to get grounded in the industry." He replied back, too.
-Dave's a champ.
+I started watching [[https://www.youtube.com/c/BryanLunduke/videos][The Lunduke Show]]. I went to /YouTube University/,
+(I know better, to read the docs, now-a-days...),
+catching every [[https://www.youtube.com/c/tutoriaLinux/videos][TutoriaLinux (Dave Cohen)]] episode I could --
+I sent him a thank you Email years later along the lines,
+"Hey, thanks for sharing your knowledge."
+He replied back, too. Dave's a champ.
 
 Admittedly, I used to [[https://www.reddit.com/r/unixporn/comments/3iy3wd/stupid_question_what_is_ricing/][rice]] my desktop back then. I used VIM like a pleb[fn:j] and apparently [[https://github.com/a-schaefers/i3-wm-gruvbox-theme][people still like my work in that regard]].
 
@@ -153,15 +102,14 @@ Admittedly, I used to [[https://www.reddit.com/r/unixporn/comments/3iy3wd/stupid
 Did you even google it? RTFM dude... [fn:i]
 #+END_QUOTE
 
-Like any good cult, I found that tech has its own jargon and can give you sense of identity. There are even holy wars. (See Vim vs. Emacs and Tabs vs. Spaces, as brilliantly demonstrated in the T.V. sitcom Silicon Valley. [fn:h])
+Like any good cult, I have found that tech has its own jargon and can give you sense of identity. There are even holy wars. (See Vim vs. Emacs and Tabs vs. Spaces, as brilliantly demonstrated in the T.V. sitcom Silicon Valley. [fn:h])
 
 I started [[https://github.com/cooslug][COOSLUG]] (*Coos* Bay, Oregon) *L* inux *U* ser *G* roup with my buddy [[https://github.com/bayprogrammer][Zeb DeOs]], the only other Hacker I knew in the area. He's a prominent full stack developer
 and I owe this guy everything career-wise.
 
 In a world where things are so often out of our control, the fact that we can program computers do exactly what we want is a strange comfort, and we shared this in common.
 
-We met once a month or so and ordered pizza, with prolonged Emacs hacking sessions and candid discussions on the state of the industry, jobs and
-open source software.
+We met once a month or so and ordered pizza, with prolonged Emacs hacking sessions and candid discussions on the state of the industry.
 
 #+BEGIN_EXPORT html
 <hr/>
@@ -176,11 +124,6 @@ Imposter Syndrome is a funny thing. When you're feeling impostery you know that,
 I felt like I had something to prove, and that I needed to be the best before I entered the field full-time in a paid gig.
 I suspect it stems from the ever-changing, ever-learning nature of tech.
 
-Dear reader, if this is you right now -- I recommend you accept that you aren't going to know everything, and then forget about it.
-/Seriously/ -- *there's nothing wrong with you dude, you're fine!*
-More important than knowing it all, is demonstrating that you're able to adapt, learn and figure stuff out.
-I spent several years in this hell, I built the place! I don't regret it, but I also don't recommend it.
-
 At the time, I was on the computer 12 hours every day, studying.
 I installed Arch Linux a hundred times, I nigh memorized the [[https://wiki.archlinux.org/title/installation_guide][now infamous wiki]] --
 FreeBSD, the same-- and I actually read [[https://docs.freebsd.org/en/books/handbook/][the Handbook.]]
@@ -189,7 +132,6 @@ I settled on a text editor, ~emacs~ and started to form my own opinions on thing
 
 I had another mentor during this period of my life, (this was back when ~systemd~ was still a debate), [[https://github.com/TemptorSent][Chris Giorgi]] of #gentoo / #funtoo on Freenode, he was an excellent [[https://www.amazon.com/AWK-Programming-Language-Alfred-Aho/dp/020107981X][awk-programmer]].
 He taught me how to use [[https://zfsonlinux.org/][ZFS]]. He taught me that there are shell scripts and then there are /shell scripts/.
-Finally, somebody more paranoid than I was, he sanity checked and validated /every/ input variable.
 
 Here's a classic [[https://en.wikipedia.org/wiki/Fork_bomb][fork bomb]],
 
@@ -201,9 +143,6 @@ evil
 #+END_SRC
 
 Better yet, as we all love good one-liner, ~:(){ :|:& };:~ Now put that in your Terminal and smoke it! I learned POSIX shell script and system administration here in this phase, which leads in to the Devops path now-a-days.
-
-Programmers need to use the Terminal and know some Bash, but when you're working on an embedded system with limited disk space, you're probably not
-going to have Bash, and your [[https://mywiki.wooledge.org/Bashism][bashisms]] are going to fail you. But shell is there, and [[https://en.wikipedia.org/wiki/POSIX][POSIX is still KING]].
 
 #+BEGIN_EXPORT html
 <hr/>
@@ -282,34 +221,41 @@ something that is some-what lacking in the Open Source world.
 <hr/>
 #+END_EXPORT
 
-* TODO Devops at Immaculata Studios 2021 -- Present (Automation life)
-
+* Senior Devops at Immaculata Studios 2021 -- Present (Automation life)
 [[./assets/images/terra_aws.png]]
 
+
+About a year ago I joined up with [[https://www.immaculatastudios.com/][Immaculata Studios]] as their Senior DevOps Engineer.
+I'm here to scale the team and products primarily using Terraform with AWS infrastructure and Docker microservices.
+I can't say too much, but there's a lot cooking right now.
+In the future I hope to expand this site with various blogs regarding various projects I'm working on.
+
+Recently, I obtained my Terraform Associate Certificate. It wasn't difficult to pass the exam, given how much I use Terraform on a daily basis.
+
+The AWS Certified Devops Engineer certificate will be next.
+
 #+BEGIN_EXPORT html
 <hr/>
 #+END_EXPORT
 
-* TODO Begin new ./blog/index.org section
+* Back to college 2021 -- Present (Part-time work on my degree...)
+I've always found University to be cost prohibitive, opting not to rack up debt and learn for free on the internet instead.
+
+However, I'm now enrolled in
+https://www.uopeople.edu/programs/online-bachelors/computer-science/
+where I do hope to finally get the CS piece of paper that I've always wanted.
 
 #+BEGIN_EXPORT html
 <hr/>
 #+END_EXPORT
 
+* Current reading list
 
-* TODO Condense current writing / Cleanup, remove some lines (it's too long)
-
-* TODO Certification journey
-
-* TODO Current reading list
+Lately I've been diving in to full stack dev work in my free time. I'm finding it helps me better work with the devs on my team.
 
 + Python Workout: 50 ten-minute exercises
 + Getting Started with SQL
 + SQL Practice Problems
-
-* TODO Socials
-
-* TODO Resume
 
 #+BEGIN_EXPORT html
 <hr/>
