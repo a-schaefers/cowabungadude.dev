@@ -64,7 +64,7 @@ that the original hacker spirit is the Unix Philosophy [fn:a] with DIY ethos. [f
 <hr/>
 #+END_EXPORT
 
-* Security and Privacy peaks my interest
+* Security and Privacy piques my interest
 
 [[./assets/images/1984.jpg]]
 
