@@ -153,15 +153,8 @@ Better yet, as we all love good one-liner, ~:(){ :|:& };:~ Now put that in your 
 
 [[./assets/images/Free_and_open-source_software_logo_(2009).svg.png]]
 
-*** Documentation writing at Funtoo
-During this time I became a Linux distro developer and package maintainer.
-I volunteered on Funtoo Linux in the beginning, troubleshooting [[https://en.wikipedia.org/wiki/Daniel_Robbins_(computer_programmer)][Daniel Robbin's]] new distro, [[https://www.funtoo.org/Welcome][Funtoo Linux]], and writing
-technical documentation like this [[https://www.funtoo.org/Libvirt][Libvirt wiki page.]] Drobbins is the creator of [[https://www.gentoo.org/][Gentoo Linux]]-- you may have heard of it.
-
-
 *** Creating a NixOS installer
-I went on a brief stint with [[https://nixos.org/][NixOS]], where with the oversight of [[https://github.com/dustinlacewell][Dustin Lacewell aka ldlework,]] (my only Silicon Valley friend in tech),
-I built my own [[https://github.com/a-schaefers/themelios][zfs-on-root installer called Themelios]] which still enjoys some usage to this day.
+After much distro hopping, I found [[https://nixos.org/][NixOS]]. Under the oversight of [[https://github.com/dustinlacewell][Dustin Lacewell aka ldlework,]] I built a [[https://github.com/a-schaefers/themelios][zfs-on-root installer called Themelios]] which still enjoys some usage to this day.
 NixOS is interesting, I'll just say that-- and I respect the work they're doing, along with [[https://guix.gnu.org/en/download/][Guix]], but I've come to prefer
 a simpler approach that is [[https://sta.li/][Stali Linux]] and [[https://github.com/oasislinux/oasis][OASIS]]. While I understand the problems solved by dynamic linking and the attempt to
 resolve the accompanying dependency hell issues in the [[https://edolstra.github.io/pubs/nspfssd-lisa2004-final.pdf][nix whitepapers,]] I tend to prefer instead the simpler solution of static linking,

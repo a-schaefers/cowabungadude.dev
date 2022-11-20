@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 <title>Adam Schaefers</title>
-<!-- 2022-10-10 Mon 10:58 -->
+<!-- 2022-11-20 Sun 15:15 -->
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="generator" content="Org-mode">
@@ -438,23 +438,10 @@ Better yet, as we all love good one-liner, <code>:(){ :|:&amp; };:</code> Now pu
 </div>
 
 <div id="outline-container-sec-6-1-1" class="outline-4">
-<h4 id="sec-6-1-1"><span class="section-number-4">6.1.1</span> Documentation writing at Funtoo</h4>
+<h4 id="sec-6-1-1"><span class="section-number-4">6.1.1</span> Creating a NixOS installer</h4>
 <div class="outline-text-4" id="text-6-1-1">
 <p>
-During this time I became a Linux distro developer and package maintainer.
-I volunteered on Funtoo Linux in the beginning, troubleshooting <a href="https://en.wikipedia.org/wiki/Daniel_Robbins_(computer_programmer)">Daniel Robbin's</a> new distro, <a href="https://www.funtoo.org/Welcome">Funtoo Linux</a>, and writing
-technical documentation like this <a href="https://www.funtoo.org/Libvirt">Libvirt wiki page.</a> Drobbins is the creator of <a href="https://www.gentoo.org/">Gentoo Linux</a>&#x2013; you may have heard of it.
-</p>
-</div>
-</div>
-
-
-<div id="outline-container-sec-6-1-2" class="outline-4">
-<h4 id="sec-6-1-2"><span class="section-number-4">6.1.2</span> Creating a NixOS installer</h4>
-<div class="outline-text-4" id="text-6-1-2">
-<p>
-I went on a brief stint with <a href="https://nixos.org/">NixOS</a>, where with the oversight of <a href="https://github.com/dustinlacewell">Dustin Lacewell aka ldlework,</a> (my only Silicon Valley friend in tech),
-I built my own <a href="https://github.com/a-schaefers/themelios">zfs-on-root installer called Themelios</a> which still enjoys some usage to this day.
+After much distro hopping, I found <a href="https://nixos.org/">NixOS</a>. Under the oversight of <a href="https://github.com/dustinlacewell">Dustin Lacewell aka ldlework,</a> I built a <a href="https://github.com/a-schaefers/themelios">zfs-on-root installer called Themelios</a> which still enjoys some usage to this day.
 NixOS is interesting, I'll just say that&#x2013; and I respect the work they're doing, along with <a href="https://guix.gnu.org/en/download/">Guix</a>, but I've come to prefer
 a simpler approach that is <a href="https://sta.li/">Stali Linux</a> and <a href="https://github.com/oasislinux/oasis">OASIS</a>. While I understand the problems solved by dynamic linking and the attempt to
 resolve the accompanying dependency hell issues in the <a href="https://edolstra.github.io/pubs/nspfssd-lisa2004-final.pdf">nix whitepapers,</a> I tend to prefer instead the simpler solution of static linking,
@@ -463,9 +450,9 @@ as disk space is no longer expensive.
 </div>
 </div>
 
-<div id="outline-container-sec-6-1-3" class="outline-4">
-<h4 id="sec-6-1-3"><span class="section-number-4">6.1.3</span> Becoming a Linux distro dev and package maintainer</h4>
-<div class="outline-text-4" id="text-6-1-3">
+<div id="outline-container-sec-6-1-2" class="outline-4">
+<h4 id="sec-6-1-2"><span class="section-number-4">6.1.2</span> Becoming a Linux distro dev and package maintainer</h4>
+<div class="outline-text-4" id="text-6-1-2">
 <p>
 After that I distro hopped on over to <a href="https://kisslinux.org/">KISS (Keep it simple, stupid) Linux</a> where I worked with <a href="https://github.com/dylanaraps">Dylan Araps</a>, author of <a href="https://github.com/dylanaraps/neofetch">Neofetch</a>. This distro is amazing,
 and only uses some odd 30 Megabytes of RAM.
@@ -478,9 +465,9 @@ decision as I was nearing getting married in 2020, and I was also working in a p
 </div>
 </div>
 
-<div id="outline-container-sec-6-1-4" class="outline-4">
-<h4 id="sec-6-1-4"><span class="section-number-4">6.1.4</span> Writing my own init scripts</h4>
-<div class="outline-text-4" id="text-6-1-4">
+<div id="outline-container-sec-6-1-3" class="outline-4">
+<h4 id="sec-6-1-3"><span class="section-number-4">6.1.3</span> Writing my own init scripts</h4>
+<div class="outline-text-4" id="text-6-1-3">
 <p>
 Around this time also, I wrote my own Linux init scripts using the Emacs Lisp programming language, dubbed <a href="https://github.com/a-schaefers/systemE">"SystemE"</a> by a friend on IRC (trolling systemd) and I hit
 the <a href="https://news.ycombinator.com/item?id=22120510">Hacker News Top 10</a> for a day, and I was pretty jazzed about that.
@@ -488,9 +475,9 @@ the <a href="https://news.ycombinator.com/item?id=22120510">Hacker News Top 10</
 </div>
 </div>
 
-<div id="outline-container-sec-6-1-5" class="outline-4">
-<h4 id="sec-6-1-5"><span class="section-number-4">6.1.5</span> Creating my own Emacs distro and more</h4>
-<div class="outline-text-4" id="text-6-1-5">
+<div id="outline-container-sec-6-1-4" class="outline-4">
+<h4 id="sec-6-1-4"><span class="section-number-4">6.1.4</span> Creating my own Emacs distro and more</h4>
+<div class="outline-text-4" id="text-6-1-4">
 <p>
 During this phase I really felt like I had graduated. Tools like <code>ssh</code>, <code>gpg</code>, <code>find</code>, <code>grep</code>, <code>git</code>, <code>patch</code> and <code>diff</code> would now be second nature.
 I built my own <a href="https://github.com/a-schaefers/spartan-emacs">Emacs framework called "Spartan Emacs"</a>. I knew POSIX shell and Bash,
@@ -728,7 +715,7 @@ pleb &#x2013; an ordinary person, especially one from the lower social classes.
 </div></div></div></div>
 <footer id="postamble" class="">
 <div><p class="author">Author: Adam Schaefers</p>
-<p class="date">Created: 2022-10-10 Mon 10:58</p>
+<p class="date">Created: 2022-11-20 Sun 15:15</p>
 <p class="creator"><a href="http://www.gnu.org/software/emacs/">Emacs</a> 28.2 (<a href="http://orgmode.org">Org-mode</a> 9.5.5)</p>
 </div>
 </footer>
